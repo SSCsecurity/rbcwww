@@ -1,0 +1,2201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="msapplication-tap-highlight" content="no">
+<meta name="format-detection" content="telephone=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="preload" href="/dvl/v1.0/assets/fonts/Roboto-Light.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/dvl/v1.0/assets/fonts/Roboto-Regular.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/dvl/v1.0/assets/fonts/Roboto-Bold.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/dvl/v1.0/assets/fonts/Roboto-Medium.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/dvl/v1.0/assets/fonts/RBCDisplay-Light.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/dvl/v1.0/assets/fonts/RBCDisplay-Bold.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/dvl/v1.0/assets/fonts/Roboto-Italic.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/dvl/v1.0/assets/fonts/Roboto-MediumItalic.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/dvl/v1.0/assets/fonts/Roboto-LightItalic.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" as="style" href="/dvl/v1.0/assets/css/dvl.min.css">
+<link rel="preload" as="script" href="/dvl/v1.0/assets/js/dvl.min.js">
+<link rel="stylesheet" href="/dvl/v1.0/assets/css/dvl.min.css">
+
+  <title>Find the Right Chequing Account - RBC Royal Bank</title>
+  <meta name="description" content="Take a minute to tell us how you like to bank and we’ll match you with the perfect RBC Royal Bank chequing account." />
+  <meta name="keywords" content="find chequing account, chequing accounts, rbc, royal bank of canada" />
+  <meta property="og:title" content="Find the Chequing Account That's Right for You" />
+  <meta property="og:description" content="Tell us how you like to bank and we’ll match you with the perfect account." />
+  <meta property="og:image" content="http://www.rbcroyalbank.com/mortgages/_assets-custom/images/rbc-og.jpg" />
+  <meta property="og:url" content="https://www.rbcroyalbank.com/accounts/find-chequing-account.html">
+
+  <meta name="PI_PageID" content="">
+
+  <style>
+    .async-hide {
+      opacity: 0 !important
+    }
+  </style>
+  <script>(function (a, s, y, n, c, h, i, d, e) {
+      s.className += ' ' + y; h.start = 1 * new Date;
+      h.end = i = function () { s.className = s.className.replace(RegExp(' ?' + y), '') };
+      (a[n] = a[n] || []).hide = h; setTimeout(function () { i(); h.end = null }, c); h.timeout = c;
+    })(window, document.documentElement, 'async-hide', 'dataLayer', 4000,
+      { 'GTM-KPSBBC6': true });</script>
+
+  <link rel="stylesheet" href="_assets-custom/css/main.css">
+  <link rel="stylesheet" href="_assets-custom/css/custom-number-increments.css">
+
+  <link rel="alternate" hreflang="fr" href="FR-webpage-URL=here" />
+  <link rel="alternate" hreflang="x-default" href="" />
+
+  <style type="text/css">
+    .disclaimer-list li {
+      font-size: 1.4rem !important;
+    }
+  </style>
+
+  <!-- Google Tag Manager -->
+  <script>var dataLayer = window.dataLayer = window.dataLayer || []; dataLayer.push({ "LOB": "Accounts" });
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-KPSBBC6');</script>
+  <!-- End Google Tag Manager -->
+
+</head>
+
+<body>
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KPSBBC6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div id="dvl-wpr">
+
+    <header data-loc="personal-banking">
+      <a href="#page-title" id="skip-nav">Skip to main content</a>
+<div id="header" class="campaign-header" data-domain="rbcroyalbank.com">
+	<!-- ** Logo ** -->
+	<div class="logo-wpr">
+		<div class="logo-img"><a href="/personal.html"><img src="/accounts/_assets-custom/images/logos/rbc-logo-whitebg.svg" alt="RBC"></a></div>
+		<div class="logo-text hide"><a href="/personal.html">Royal Bank</a></div>
+	</div>
+
+	<!-- *** Mobile header *** -->
+	<div class="mobile-header-content display-mob-inline-block">
+		<div class="mobile-logo-wpr">
+			<div class="logo-image"><a href="/personal.html"><img src="/accounts/_assets-custom/images/logos/rbc-logo-whitebg.svg" alt="RBC"></a></div>
+			<div class="logo-text hide"><a href="/personal.html">Royal Bank</a></div>
+		</div>
+	</div>
+
+	<div class="language-dropdown">
+		<a href="javascript:void(0);" class="dropdown-text" id="nav-language" role="button" aria-controls="content-language" aria-expanded="false"
+		tabindex="0">(EN)</a>
+		<div id="content-language" class="dropdown-content hide" aria-hidden="true" role="region">
+		<ul id="header-language">
+			<li><a href="/fr/comptes/find-chequing-account.html" lang="fr" class="lang-fr">(FR)</a></li>
+		</ul>
+		</div>
+	</div>
+</div>
+    </header>
+
+    <main>
+      <div class="progress-bar mar-b-0" data-prog-status="0">
+        <div class="progress-status">
+          <span class="progress-text georgia-italic">1 of 5</span>
+        </div>
+      </div>
+      <div id="intro-notice" style="display: none;"><span id="intro-notice-content"></span></div>
+
+      <section id="acctRec">
+        <div class="section-inner pad-t-0">
+          <div class="container-wpr w-100">
+            <div class="content-section max-width-wrap centered">
+              <section>
+                <div class="inner-content-section mob-pad-t mar-t-dbl">
+
+                  <h1 id="page-title" class="mar-t-0 mar-b text-center" tabindex="-1"></h1>
+
+                  <div class="container-inner pos-rel">
+
+                    <div id="question_transactions" class="q1 questions active max-width-wrap">
+                      <h2 class="h3 h2-mob text-center tool_intro"></h2>
+                      <p class="q1_tip text-script text-center text-mob-left mar-b-dbl"></p>
+                      <div class="slider-wpr mar-b-0">
+                        <div class="slider slider_transactions">
+                          <label for="transactionSliderClone">Transaction Slider</label>
+                          <input id="transactionSliderClone" type="number" data-min="0" data-max="25" aria-hidden="true" tabindex="-1" data-grid="true" data-grid-num="2" data-postfix-right="+" aria-describedby="dollar-symbol-slider">
+                        </div>
+                        <div class="input-wpr align-center">
+                          
+                            <div class="input-symbol">
+                                <label for="transactionSlider">Transaction Slider</label>
+                                <span id="dollar-symbol-slider" class="offscreen">Number of transactions per month 0 to 25</span>
+                                <input type="number" value="0" pattern="[0-9]*" id="transactionSlider" class="input-from slider-input text-center" aria-describedby="dollar-symbol-slider">
+                            </div>
+                        </div>
+                      </div>
+                      <p class="input-wpr transactionSlider">
+                        <span class="error-msg">Please provide a valid number</span>
+                      </p>
+                    </div>
+
+                    <!--- Question sub questoins -->
+                    <div id="transaction_estimate_q1a" class="q1-a max-width-wrap">
+                      <h2 class="h3 h2-mob tool_intro mar-b mob-mar-b-dbl text-center"></h2>
+                      <div class="input-wpr flex-between debitUse debitUseInp">
+                        <label for="debitUse"></label>
+                        <div class="num-field-wpr">
+                          <button class="btn-num-minus disabled" disabled aria-label="Minus one" aria-controls="debitUse" data-target="#debitUse"></button>
+                          <input id="debitUse" class="num-field" type="number" min="0" max="99" maxlength="2" value="0" >
+                          <button class="btn-num-plus" aria-label="Add one" aria-controls="debitUse" data-target="#debitUse"></button>
+                        </div>
+                        <span class="error-msg">Please provide a valid number</span>
+                      </div>
+                      <div class="input-wpr flex-between atmUse atmUseInp">
+                        <label for="atmUse"></label>
+                        <div class="num-field-wpr">
+                          <button class="btn-num-minus disabled" disabled aria-label="Minus one" aria-controls="atmUse" data-target="#atmUse"></button>
+                          <input id="atmUse" class="num-field" type="number" min="0" max="99" maxlength="2" placeholder="0" value="0">
+                          <button class="btn-num-plus" aria-label="Add one" aria-controls="atmUse" data-target="#atmUse"></button>
+                        </div>
+                        <span class="error-msg">Please provide a valid number</span>
+                      </div>
+                      <div class="input-wpr flex-between otherATM otherATMInp">
+                        <label for="otherATM"></label>
+                        <div class="num-field-wpr">
+                          <button class="btn-num-minus disabled" disabled aria-label="Minus one" aria-controls="otherATM" data-target="#otherATM"></button>
+                          <input id="otherATM" class="num-field" type="number" min="0" max="99" maxlength="2" placeholder="0" value="0" >
+                          <button class="btn-num-plus" aria-label="Add one" aria-controls="otherATM" data-target="#otherATM"></button>
+                        </div>
+                        <span class="error-msg">Please provide a valid number</span>
+                      </div>
+                    </div><!-- q1a ends -->
+
+                    <div id="question_atm" class="q2 questions max-width-wrap">
+                      <label for="nonRbcAtm" class="h3 h2-mob tool_intro mar-b text-center"></label>
+                      <div class="input-wpr nonRbcAtm mar-t-hlf">
+                        <div class="num-field-wpr flex-center">
+                          <button class="btn-num-minus disabled" disabled aria-label="Minus one" aria-controls="nonRbcAtm" data-target="#nonRbcAtm"></button>
+                          <input id="nonRbcAtm" class="num-field" type="number" min="0" max="5" maxlength="1" placeholder="0" value="0" >
+                          <button class="btn-num-plus" aria-label="Add one" aria-controls="nonRbcAtm" data-target="#nonRbcAtm"></button>
+                        </div>
+                        <span class="error-msg">Please provide a valid number</span>
+                      </div>
+                    </div><!-- atm question ends -->
+
+                    <div id="question_rbcservices" class="q3 questions max-width-wrap">
+                      <h2 class="h3 h2-mob tool_intro mar-b mob-mar-b-dbl text-center"></h2>
+                      <fieldset class="checkbox-wpr mar-b-dbl">
+                        <div>
+                          <legend class="hide">Check Boxes Vertical</legend>
+                          <input type="checkbox" id="additionalAccts" class="other" value="Yes">
+                          <label for="additionalAccts" class="additionalAcctsInp mar-r-0"></label>
+                          <input id="depoBox" type="checkbox" class="other" value="Yes">
+                          <label for="depoBox" class="depoBoxInp mar-r-0"></label>
+                          <input id="overdraft" type="checkbox" class="other" value="Yes">
+                          <label for="overdraft" class="overdraftInp mar-r-0"></label>
+                          <input id="rbcCreditCheckBox" type="checkbox" class="cc_options">
+                          <label for="rbcCreditCheckBox" class="creditCardInp mar-r-0"></label>
+                        </div>
+                      </fieldset>
+                      <p aria-hidden="true" class="checkboxNote text-disclaimer"></p>
+                    </div>
+
+                    <div id="question_rewards" class="q4 questions max-width-wrap">
+                      <h2 class="h3 h2-mob mar-b tool_intro mob-mar-b-dbl text-center text-mob-left">
+                        <span class="heading-1"></span><button class="tooltip-trigger" data-id="rewards-points-tip-1" data-dig-id="account-selector-2"><span class="offscreen">RBC Rewards points</span></button>
+                        <div id="rewards-points-tip-1" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="rewards-points-tip-content-1" aria-hidden="true">
+                          <div id="rewards-points-tip-content-1" class="tooltip-inner rewards-points-tip-content"></div>
+                          <button class="close"><span>Close</span></button>
+                        </div>
+                        <span class="heading-2"></span><button class="tooltip-trigger" data-id="value-program-tip-1" data-dig-id="account-selector-8"><span class="offscreen">RBC value program</span></button>
+                        <div id="value-program-tip-1" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="value-program-tip-content-1" aria-hidden="true">
+                          <div id="value-program-tip-content-1" class="tooltip-inner value-program-tip-content"></div>
+                          <button class="close"><span>Close</span></button>
+                        </div>
+                      </h2>
+                      <p class="text-center rewards_findout rewards-cust-nowrap mar-b-0 text-mob-left"></p>
+                      <fieldset class="checkbox-wpr mar-b-dbl">
+                        <legend class="hide">Check Boxes Vertical</legend>
+                        <div class="grid-wpr centered w-75 w-mob-100">
+                          <div class="grid-half">
+                            <input id="rewardsCardBox" type="checkbox" class="cc_options">
+                            <label for="rewardsCardBox" class="rewardsCardLabel"></label>
+                            <p class="q4_cardNote text-script display-none"></p>
+                            <input type="checkbox" id="rewardsInvestmentBox" class="other" value="Yes">
+                            <label for="rewardsInvestmentBox" class="rewardsInvestmentLabel"></label>
+                          </div>
+                          <div class="grid-half">
+                            <input id="rewardsMortgageBox" type="checkbox" class="other" value="Yes">
+                            <label for="rewardsMortgageBox" class="rewardsMortgageLabel"></label>
+                            <input id="rewardsBusinessBox" type="checkbox" class="other" value="Yes">
+                            <label for="rewardsBusinessBox" class="rewardsBusinessLabel"></label>
+                          </div>
+                        </div>
+                      </fieldset>
+                      <p class="checkboxNote text-disclaimer"></p>
+                    </div>
+
+                    <div id="question_forwho" class="q5 questions mar-lr-dbl pad-lr-dbl mob-mar-lr-0 mob-pad-lr-0 max-width-wrap">
+                      <h2 class="h3 h2-mob tool_intro mar-b mob-mar-b-dbl text-center"></h2>
+                      <fieldset class="radio-wpr">
+                        <div class="whofor_radioOptions">
+                          <input type="radio" id="isStudentQes" name="whofor_radio" value="isStudent">
+                          <label for="isStudentQes"><span class="student_label"></span><button class='tooltip-trigger' data-id='studentToolTip' data-dig-id='account-selector-3'></button></label>
+                          <div id='studentToolTip' class='tooltip' data-h='rightedge' data-v='bottom' aria-describedby='studentToolTip-content' aria-hidden='true'>
+                            <div id='studentToolTip-content' class='tooltip-inner studentToolTip-content'></div>
+                            <button class='close'><span>Close</span></button>
+                          </div>
+                          <input type="radio" id="isSeniorQes" name="whofor_radio" value="isSenior">
+                          <label for="isSeniorQes" class="senior_label"></label>
+                          <input type="radio" id="isNewcomerQes" name="whofor_radio" value="isNewcomer">
+                          <label for="isNewcomerQes"><span class="newcomer_label"></span><button class='tooltip-trigger' data-id='newcomerToolTip' data-dig-id='account-selector-4'></button></label>
+                          <div id='newcomerToolTip' class='tooltip' data-h='rightedge' data-v='bottom' aria-describedby='newcomerToolTip-content' aria-hidden='true'>
+                            <div id='newcomerToolTip-content' class='tooltip-inner newcomerToolTip-content'></div>
+                            <button class='close'><span>Close</span></button>
+                          </div>
+                          <input type="radio" id="NoneQes" name="whofor_radio" value="None">
+                          <label for="NoneQes" class="none_label"></label>
+                        </div>
+                      </fieldset>
+                    </div>
+
+                  </div>
+
+                  <div class="bottom-nav mar-t-dbl">
+                    <a role="button" id="helpMeEstimate" data-dig-id="account-selector-1" class="standalone-link helpMeEstimate pull-left mar-t-0 text-mob-center mob-mar-auto" href="javascript:void(0);"
+                      aria-label=""><span class="next"></span></a>
+                    <a role="button" id="nextStep" class="btn primary pull-right mar-t-0 text-transform-none" href="javascript:void(0);" aria-label=""><span
+                        class="next">Continue</span></a>
+                    <a role="button" id="prevStep" class="pull-left prevStep mar-t-0 text-center-mob inactive" href="javascript:void(0);"><img class="icon-20 mar-r-qtr"
+                        src="/dvl/v1.0/assets/images/icons/back_arrow_icon.svg" alt="go back to previous panel"> Back</a>
+                  </div>
+
+                  <div id="cust-legal-15-q4" class="table-wpr text-disclaimer cust-legal-15" style="display: none;">
+                    <div class="table-row">
+                      <div class="table-cell pad-r-qtr">15)</div>
+                      <div class="table-cell legal-15-content"></div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+      <!-- Error -->
+      <section id="error">
+        <div class="section-inner">
+          <div class="notice fail">
+            <div class="notice-title">Attention</div>
+            <div class="notice-content">
+              <p class="error-text"></p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Results -->
+      <section aria-label="Results" id="results" class="results">
+        <div class="hide" id="floatingBar">
+          <div class="card-inner">
+            <div class="activeCardHeader text-center text-script desktop-hidden">
+              <span class="if_recommended"></span>
+            </div>
+            <h2 class="h4 card-title recommendedProductFloatBar pad-lr-hlf mar-0 rbcdisplay-medium mob-mar-b-qtr text-mob-center">RBC Advantage Banking</h2>
+            <div class="float-summary pad-r-hlf mob-pad-lr">
+              <strike><span class="offscreen">Original fee</span><span class="baseCost mar-r-qtr">$20</span></strike>
+              <h4 class="roboto-bold mar-0 display-inline finalPresCost"><span class="offscreen">empty</span></h4>
+              <span class="mar-l-qtr mob-mar-l text-script text-small rebateDetails"></span>
+              <a href="javascript:void(0);" target="_blank" class="openThisAccount openAcctFloatBar btn secondary mar-t-0 mar-l-hlf mob-mar-l-0 mob-mar-t no-wrap w-mob-100"></a>
+            </div>
+          </div>
+          <div class="card-compare-inner section-inner pad-tb-0" style="display: none;">
+            <div class="grid-wpr major">
+              <div class="grid-one-third mobile-hidden"></div>
+              <div class="grid-two-thirds mob-mar-t-0">
+                <div class="mar-b-0 flex" id="cardsCompareWpr">
+                  <div class="activeCardHeader text-center text-script">
+                    <span class="if_recommended"></span>
+                  </div>
+                  <div id="cardD2DComp" class="w-50 cardD2D cardSelector pad-lr-inner pos-rel">
+                    <div class="card">
+                      <h5 class="card-title text-center selectedAccName mar-t-20 mob-mar-t-hlf mar-b-qtr mob-mar-b-0 mar-l-qtr rbcdisplay-bold">D2D</h5>
+                      <div class="card-details">
+                        <h4 class="D2DFinalCost roboto-bold display-inline mar-b-0 mar-r-hlf mob-mar-r-0">$15.95</h4>
+                        <span class="D2DRebateDetails text-script font-14 text-mob-center"></span>
+                      </div>
+                      <a href="javascript:void(0);" class="D2D pull-right clickable close-icon"  role="button">
+                        <img src="_assets-custom/images/icon-close.svg" aria-label="Close RBC Day to Day banking account"/>
+                      </a>
+                    </div>
+                  </div>
+                  <div id="cardAdvComp" class="w-50 cardAdv cardSelector pad-lr-inner pos-rel">
+                    <div class="card">
+                      <h5 class="card-title text-center selectedAccName mar-t-20 mob-mar-t-hlf mar-b-qtr mob-mar-b-0 mar-l-qtr rbcdisplay-bold">RBC Advantage</h5>
+                      <div class="card-details">
+                        <h4 class="AdvFinalCost roboto-bold display-inline mar-b-0 mar-r-hlf mob-mar-r-0">$15.95</h4>
+                        <span class="AdvRebateDetails text-script font-14 text-mob-center"></span>
+                      </div>
+                      <a href="javascript:void(0);" class="Adv pull-right clickable close-icon"  role="button">
+                        <img src="_assets-custom/images/icon-close.svg" aria-label="Close RBC Advantage banking account"  />
+                      </a>
+                    </div>
+                  </div>
+                  <div id="cardSNLComp" class="w-50 cardSNL cardSelector pad-lr-inner pos-rel">
+                    <div class="card">
+                      <h5 class="card-title text-center selectedAccName mar-t-20 mob-mar-t-hlf mar-b-qtr mob-mar-b-0 mar-l-qtr rbcdisplay-bold">No Signature Banking</h5>
+                      <div class="card-details">
+                        <h4 class="SNLFinalCost roboto-bold display-inline mar-b-0 mar-r-hlf mob-mar-r-0">$15.95</h4>
+                        <span class="SNLRebateDetails text-script font-14 text-mob-center"></span>
+                      </div>
+                      <a href="javascript:void(0);" class="SNL pull-right clickable close-icon"  role="button">
+                        <img src="_assets-custom/images/icon-close.svg" aria-label="Close RBC Signature No Limit banking account" />
+                      </a>
+                    </div>
+                  </div>
+                  <div id="cardVIPComp" class="w-50 cardVIP cardSelector pad-lr-inner pos-rel">
+                    <div class="card">
+                      <h5 class="card-title text-center selectedAccName mar-t-20 mob-mar-t-hlf mar-b-qtr mob-mar-b-0 mar-l-qtr rbcdisplay-bold">RBC VIP Banking</h5>
+                      <div class="card-details">
+                        <h4 class="VIPFinalCost roboto-bold display-inline mar-b-0 mar-r-hlf mob-mar-r-0">$15.95</h4>
+                        <span class="VIPRebateDetails text-script font-14 text-mob-center"></span>
+                      </div>
+                      <a href="javascript:void(0);" class="VIP pull-right clickable close-icon"  role="button">
+                        <img src="_assets-custom/images/icon-close.svg" aria-label="Close RBC VIP banking account" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="section-inner pad-t-0 mob-pad-lr-0">
+          <div class="grid-wpr major eh-wpr dividers1">
+            <div class="loader-overlay" style="display: none;">
+              <div class="loader" role="img" aria-label="Page loading please wait" aria-live="assertive">
+                <svg class="circular" viewBox="25 25 50 50">
+                  <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="1" stroke-miterlimit="10" />
+                </svg>
+              </div>
+            </div>
+
+            <div class="grid-full mob-mar-tb-0">
+              <h1 tabindex="-1" id="results-header" class="h1 results-header text-mob-center mob-pad-hlf"></h1>
+            </div>
+
+            <div class="grid-one-third account-controls-desktop desktop-only">
+
+              <div id="left-col-controls" style="max-width: 367px;">
+                <h2 class="roboto-regular text-sm-center trans_sliderHeading mar-b" style="font-size: 18px; line-height: 1.5em;"></h2>
+                <p class="trans_slider_description"></p>
+                <div id="transactionSliderWrap" class="slider-wpr pad-l-hlf">
+                  <div class="slider slider_transactions">
+                    <label for="transactionSliderResClone">How many transactions do you make each month?</label>
+                    <input id="transactionSliderResClone" type="text" data-min="0" data-max="25" aria-hidden="true" tabindex="-1" data-grid="true" data-grid-num="2"  data-postfix-right="+">
+                  </div>
+                  <div class="input-wpr">
+                   
+                      <div class="input-symbol fl-r">
+                          <label for="transactionSliderRes">Monthly Debit Transactions:</label>
+                          <span id="dollar-symbol-sliderRes" class="offscreen">Number of transactions per month 0 to 25</span>
+                          <input type="number" pattern="[0-9]*" id="transactionSliderRes" class="input-from slider-input text-center" aria-describedby="dollar-symbol-sliderRes">
+                      </div>
+                  </div>
+                </div>
+
+                <div id="question_atmRes" class="selector-botttom-border">
+                  <label for="nonRbcAtmRes" class="roboto-regular text-sm-center atm_sliderHeading"></label>
+                  <div class="input-wpr nonRbcAtmRes mar-t-hlf">
+                    <div class="num-field-wpr flex-center">
+                      <button class="btn-num-minus disabled" disabled aria-label="Minus one" aria-controls="nonRbcAtmRes" data-target="#nonRbcAtmRes"></button>
+                      <input id="nonRbcAtmRes" class="num-field" type="number" min="0" max="5" maxlength="1" placeholder="0" value="0" >
+                      <button class="btn-num-plus" aria-label="Add one" aria-controls="nonRbcAtmRes" data-target="#nonRbcAtmRes"></button>
+                    </div>
+                    <span class="error-msg">Please provide a valid number</span>
+                  </div>
+                </div>
+
+                <div id="question_rbcservicesRes" class="selector-botttom-border">
+                  <p class="roboto-regular servicesHeading"></p>
+                  <fieldset class="checkbox-wpr pad-t-hlf">
+                    <legend class="hide">Check Boxes Vertical</legend>
+                    <input type="checkbox" id="additionalAcctsRes" value="Yes">
+                    <label for="additionalAcctsRes" class="additionalAcctsInpRes"></label>
+                    <input id="depoBoxRes" type="checkbox" value="Yes">
+                    <label for="depoBoxRes" class="depoBoxInpRes"></label>
+                    <input id="overdraftRes" type="checkbox" value="Yes">
+                    <label for="overdraftRes" class="overdraftInpRes"></label>
+                  </fieldset>
+                </div>
+
+                <div id="question_rewardsRes" class="selector-botttom-border">
+                  <div class="roboto-regular rewardsHeading pad-b-hlf">
+                    <span class="heading-1"></span><button class="tooltip-trigger" data-id="rewards-points-tip-8" data-dig-id="account-selector-39"><span class="offscreen">RBC Rewards Points</span></button>
+                    <div id="rewards-points-tip-8" class="tooltip" data-h="right" data-v="topedge" aria-describedby="rewards-points-tip-content-8" aria-hidden="true">
+                        <div id="rewards-points-tip-content-8" class="tooltip-inner rewards-points-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                    <span class="heading-2"></span><button class="tooltip-trigger" data-id="value-program-tip-8" data-dig-id="account-selector-41"><span class="offscreen">RBC Value Program</span></button>
+                    <div id="value-program-tip-8" class="tooltip" data-h="right" data-v="topedge" aria-describedby="value-program-tip-content-8" aria-hidden="true">
+                        <div id="value-program-tip-content-8" class="tooltip-inner value-program-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </div>
+                  <fieldset class="checkbox-wpr pad-t-hlf">
+                    <legend class="hide">Check Boxes Vertical</legend>
+                    <input id="rewardsCardBoxRes" type="checkbox" value="Yes">
+                    <label for="rewardsCardBoxRes" class="rewardsCardLabel"></label>
+                    <input id="rewardsInvestmentBoxRes" type="checkbox" value="Yes">
+                    <label for="rewardsInvestmentBoxRes" class="rewardsInvestmentLabel"></label>
+                    <input id="rewardsMortgageBoxRes" type="checkbox" value="Yes">
+                    <label for="rewardsMortgageBoxRes" class="rewardsMortgageLabel"></label>
+                    <input id="rewardsBusinessBoxRes" type="checkbox" value="Yes">
+                    <label for="rewardsBusinessBoxRes" class="rewardsBusinessLabel"></label>
+                  </fieldset>
+                </div>
+
+                <div id="who_iam_res">
+                  <h3 class="h5 whoAmIHeading"></h3>
+                  <fieldset class="radio-wpr resultColRadio">
+                    <legend class="hide">Radio Buttons Vertical</legend>
+                    <input type="radio" id="isStudentRes" name="whofor_radioRes" value="isStudent">
+                    <label for="isStudentRes"><span class="student_label"></span><button class='tooltip-trigger' data-id='studentToolTipRes' data-dig-id="account-selector-22"></button></label>
+                    <div id='studentToolTipRes' class='tooltip' data-h='right' data-v='topedge' aria-describedby='studentToolTipRes-content' aria-hidden='true'>
+                      <div id='studentToolTipRes-content' class='tooltip-inner studentToolTip-content'></div>
+                      <button class='close'><span>Close</span></button>
+                    </div>
+                    <input type="radio" id="isSeniorRes" name="whofor_radioRes" value="isSenior">
+                    <label for="isSeniorRes" class="senior_label"></label>
+                    <input type="radio" id="isNewcomerRes" name="whofor_radioRes" value="isNewcomer">
+                    <label for="isNewcomerRes"><span class="newcomer_label"></span><button class='tooltip-trigger' data-id='newcomerToolTipRes' data-dig-id="account-selector-23"></button></label>
+                    <div id='newcomerToolTipRes' class='tooltip' data-h='right' data-v='topedge' aria-describedby='newcomerToolTipRes-content' aria-hidden='true'>
+                      <div id='newcomerToolTipRes-content' class='tooltip-inner newcomerToolTip-content'></div>
+                      <button class='close'><span>Close</span></button>
+                    </div>
+                    <input type="radio" id="NoneRes" name="whofor_radioRes" value="None">
+                    <label for="NoneRes" class="none_label"></label>
+                  </fieldset>
+                </div>
+              </div><!-- inner wrap-->
+            </div><!-- one third grid -->
+
+            <!-- Right column -->
+            <div class="grid-two-thirds resultsViewCol mob-mar-t-0">
+
+              <section id="accountComparisonCards">
+                <div id="comparisonCard" class="productComparison">
+                  <div class="activeCardHeader text-center text-script">
+                    <span class="if_recommended"></span>
+                  </div>
+                  <div class="top-section col-12 mob-mar-t-0">
+                    <div class="comparison-callout panel panel-primary panel-primary-low mar-b-0">
+                      <div class="row" id="cardsWpr">
+
+                        <div class="col-xs-6 cardD2D cardA cardSelector" id="cardD2D" data-account-key="D2D">
+                          <h4 class="card-title text-center selectedAccName rbcdisplay-medium mar-t-hlf">D2D</h4>
+                          <div class="compare-cost-wpr">
+                            <strike><span class="offscreen">Original fee</span><span class="D2DBaseCost">$20</span></strike>
+                            <h3 class="mar-t-0">
+                              <span class="offscreen">Updated fee</span>
+                              <span class="D2DFinalCost roboto-bold">$0</span>
+                            </h3>
+                          </div>
+                          <div class="compare-rebate-wpr w-100">
+                            <p class="mar-b-0 D2DRebateDetails text-center text-script w-100 font-14"></p>
+                            <p class="hasAdditionalFeesD2D text-center text-disclaimer w-100">Based on your proposed usage, <a href="javascript:void(0);" data-target="#monthly-fee-title-compare" class="scrollto no-wrap mob-wrap">additional fees may apply</a></p>
+                          </div>
+                          <a href="javascript:void(0);" class="D2D pull-right clickable close-icon"  role="button">
+                            <img src="_assets-custom/images/icon-close.svg" aria-label="Close RBC Day to Day banking account" />
+                          </a>
+                        </div>
+
+                        <div class="col-xs-6 cardAdv cardB cardSelector" id="cardAdv" data-account-key="Adv">
+                          <h4 class="card-title text-center selectedAccName rbcdisplay-medium mar-t-hlf">RBC Advantage</h4>
+                          <div class="compare-cost-wpr">
+                            <strike><span class="offscreen">Original fee</span><span class="AdvBaseCost">$20</span></strike>
+                            <h3 class="mar-t-0">
+                              <span class="offscreen">Updated fee</span>
+                              <span class="AdvFinalCost roboto-bold">$0</span>
+                            </h3>
+                          </div>
+                          <div class="compare-rebate-wpr w-100">
+                            <p class="mar-b-0 AdvRebateDetails text-center text-script w-100 font-14"></p>
+                          </div>
+                          <a href="javascript:void(0);" class="Adv pull-right clickable close-icon"  role="button">
+                            <img src="_assets-custom/images/icon-close.svg" aria-label="Close RBC Advantage banking account" />
+                          </a>
+                        </div>
+
+                        <div class="col-xs-6 cardSNL cardC cardSelector" id="cardSNL" data-account-key="SNL">
+                          <h4 class="card-title text-center selectedAccName rbcdisplay-medium mar-t-hlf">No Signature Banking</h4>
+                          <div class="compare-cost-wpr">
+                            <strike><span class="offscreen">Original fee</span><span class="SNLBaseCost">$20</span></strike>
+                            <h3 class="mar-t-0">
+                              <span class="offscreen">Updated fee</span>
+                              <span class="SNLFinalCost roboto-bold">$0</span>
+                            </h3>
+                          </div>
+                          <div class="compare-rebate-wpr w-100">
+                            <p class="mar-b-0 SNLRebateDetails text-center text-script w-100 font-14"></p>
+                            <p class="hasAdditionalFeesSNL text-center text-disclaimer w-100">Based on your proposed usage, <a href="javascript:void(0);" data-target="#monthly-fee-title-compare" class="scrollto no-wrap mob-wrap">additional fees may apply</a></p>
+                          </div>
+                          <a href="javascript:void(0);" class="SNL pull-right clickable close-icon"  role="button">
+                            <img src="_assets-custom/images/icon-close.svg" aria-label="Close RBC Signature No Limit banking account" />
+                          </a>
+                        </div>
+
+                        <div class="col-xs-6 cardVIP cardD cardSelector" id="cardVIP" data-account-key="VIP">
+                          <h4 class="card-title text-center selectedAccName rbcdisplay-medium mar-t-hlf">RBC VIP Banking</h4>
+                          <div class="compare-cost-wpr">
+                            <strike><span class="offscreen">Original fee</span><span class="VIPBaseCost">$20</span></strike>
+                            <h3 class="mar-t-0">
+                              <span class="offscreen">Updated fee</span>
+                              <span class="VIPFinalCost roboto-bold">$0</span>
+                            </h3>
+                          </div>
+                          <div class="compare-rebate-wpr w-100">
+                            <p class="mar-b-0 VIPRebateDetails text-center text-script w-100 font-14"></p>
+                          </div>
+                          <a href="javascript:void(0);" class="VIP pull-right clickable close-icon"  role="button">
+                            <img src="_assets-custom/images/icon-close.svg" aria-label="Close RBC VIP banking account" />
+                          </a>
+                        </div>
+                      </div>
+                    </div><!-- panel -->
+                  </div><!-- top section -->
+                </div>
+              </section>
+
+              <section id="comparisonTable">
+                <div class="section-inner row pad-0">
+                  <div class="grid-full results-callout pad-lr-0 mar-t-0 mar-b mob-mar-b-dbl">
+                    <h3 class="text-center comparisonTableTitle rbcdisplay-medium mar-tb">Account Details</h3>
+                    <div class="table-comparison">
+                      <div id="account-comparison-table" class="pad account-comparison-table">
+    <h4 class="rbcdisplay-bold text-center mar-b mar-t-0">Features and Optional Services</h4>
+    <table class="table-swipe w-full grey-table" id="compare-table-features">
+        <tbody>
+            <tr>
+                <th class="table-subtitle" scope="row" colspan="4">
+                    <span class="if_no_D2D">Unlimited</span> Debit Transactions<sup class="if_D2D"><a href="javascript:void(0);" class="scrollto" data-target="#legal-6">6</a></sup>
+                </th>
+            </tr>
+            <tr class="if_no_D2D acc-row">
+                <td class="D2D-col">
+                    
+                </td>
+                <td class="Adv-col">
+                    Included
+                </td>
+                <td class="SNL-col">
+                    Included
+                </td>
+                <td class="VIP-col">
+                    Included (worldwide)
+                </td>
+            </tr>
+            <tr class="if_D2D acc-row">
+                <td class="D2D-col">
+                    <p class="mar-b-0">12 Included</p>
+                    <span class="hasTransactionOverage">+ <span class="transactionOverageCost"></span><button class="tooltip-trigger" data-id="d2d-debit-overage-tip" data-dig-id="account-selector-17"><span class="offscreen">Day to day banking debit overage</span></button></span>
+                    <div id="d2d-debit-overage-tip" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="d2d-debit-overage-tip-content" aria-hidden="true">
+                        <div id="d2d-debit-overage-tip-content" class="tooltip-inner">
+                            <span class="transactionOverageNum"></span> excess debit transactions at $1.25 each
+                        </div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </td>
+                <td class="Adv-col">
+                    Unlimited transactions
+                </td>
+                <td class="SNL-col">
+                    Unlimited transactions
+                </td>
+                <td class="VIP-col">
+                    Unlimited transactions (wordwide)
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row" colspan="4">
+                    PLUS Access Fee in Canada or the U.S.<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-16">16</a>, <a href="javascript:void(0);" class="scrollto" data-target="#legal-17">17</a></sup>
+                </th>
+            </tr>
+            <tr class="acc-row">
+                <td class="D2D-col">
+                    $3 ea.
+                </td>
+                <td class="Adv-col">
+                    $3 ea.
+                </td>
+                <td class="SNL-col">
+                    $3 ea.
+                </td>
+                <td class="VIP-col">
+                    Free
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row" colspan="4">
+                    PLUS Access Fee Outside Canada or the U.S.<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-16">16</a>, <a href="javascript:void(0);" class="scrollto" data-target="#legal-17">17</a></sup>
+                </th>
+            </tr>
+            <tr class="acc-row">
+                <td class="D2D-col">
+                    $5 ea.
+                </td>
+                <td class="Adv-col">
+                    $5 ea.
+                </td>
+                <td class="SNL-col">
+                    $5 ea.
+                </td>
+                <td class="VIP-col">
+                    Free
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row" colspan="4">
+                    Cross-Border Debit<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-18">18</a></sup>
+                </th>
+            </tr>
+            <tr class="acc-row">
+                <td class="D2D-col">
+                    $1 ea.
+                </td>
+                <td class="Adv-col">
+                    $1 ea.
+                </td>
+                <td class="SNL-col">
+                    5 free/month, $1 each thereafter
+                </td>
+                <td class="VIP-col">
+                    Free
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row" colspan="4">
+                    Bank Drafts
+                </th>
+            </tr>
+            <tr class="acc-row">
+                <td class="D2D-col">
+                    $8.50 ea.
+                </td>
+                <td class="Adv-col">
+                    $8.50 ea.
+                </td>
+                <td class="SNL-col">
+                    6 Free/year, $8.50 each thereafter<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-19">19</a></sup>
+                </td>
+                <td class="VIP-col">
+                    12 Free/year, $8.50 each thereafter<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-19">19</a></sup>
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row" colspan="4">
+                    Using Non-RBC ATM
+                </th>
+            </tr>
+            <tr class="acc-row">
+                <td class="D2D-col">
+                    $2 per withdrawal<span class="hasNonRbcAtmOverageD2D"> / <span class="nonRbcAtmOverageCostD2D">$8</span></span><button class="tooltip-trigger" data-id="d2d-nonrbc-atm-tip" data-dig-id="account-selector-18"><span class="offscreen">Day to day banking non-rbc atm</span></button>
+                    <div id="d2d-nonrbc-atm-tip" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="d2d-nonrbc-atm-tip-content" aria-hidden="true">
+                        <div id="d2d-nonrbc-atm-tip-content" class="tooltip-inner">
+                            <p>$2 per withdrawal at a non-RBC <em>Interac</em> ATM in Canada, in addition to any fees another bank may charge to use their ATM<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-7">7</a></sup>.</p>
+                            <p class="text-bold hasNonRbcAtmOverageD2D">Based on your proposed non-ATM usage, you would need an additional <span class="nonRbcAtmOverageNumD2D">4</span> withdrawals at $2 each</p>
+                        </div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </td>
+                <td class="Adv-col">
+                    Included<button class="tooltip-trigger" data-id="adv-nonrbc-atm-tip" data-dig-id="account-selector-18"><span class="offscreen">Advantage banking non-rbc atm</span></button>
+                    <div id="adv-nonrbc-atm-tip" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="adv-nonrbc-atm-tip-content" aria-hidden="true">
+                        <div id="adv-nonrbc-atm-tip-content" class="tooltip-inner">
+                            We won't charge a fee to use a non-RBC <em>Interac</em> ATM in Canada, but another bank may charge a fee to use their ATM<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-7">7</a></sup>.
+                        </div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </td>
+                <td class="SNL-col">
+                    3 waived /month<span class="hasNonRbcAtmOverageSNL"> / <span class="nonRbcAtmOverageCostSNL">$2</span></span><button class="tooltip-trigger" data-id="snl-nonrbc-atm-tip" data-dig-id="account-selector-18"><span class="offscreen">Signature no limit banking non-rbc atm</span></button>
+                    <div id="snl-nonrbc-atm-tip" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="snl-nonrbc-atm-tip-content" aria-hidden="true">
+                        <div id="snl-nonrbc-atm-tip-content" class="tooltip-inner">
+                            <p>3 refunded / month; $2 per withdrawal thereafter at a non-RBC <em>Interac</em> ATM in Canada, in addition to any fees another bank may charge to use their ATM<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-7">7</a></sup>.</p>
+                            <p class="text-bold hasNonRbcAtmOverageSNL">Based on your proposed non-ATM usage, you would need an additional <span class="nonRbcAtmOverageNumSNL">4</span> withdrawals at $2 each</p>
+                        </div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </td>
+                <td class="VIP-col">
+                    Included<button class="tooltip-trigger" data-id="vip-nonrbc-atm-tip" data-dig-id="account-selector-18"><span class="offscreen">VIP banking non-rbc atm</span></button>
+                    <div id="vip-nonrbc-atm-tip" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="vip-nonrbc-atm-tip-content" aria-hidden="true">
+                        <div id="vip-nonrbc-atm-tip-content" class="tooltip-inner">
+                           We won't charge a fee to use a non-RBC <em>Interac</em> or PLUS System ATM worldwide, but another bank may charge a fee to use their ATM<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-7">7</a></sup>.
+                        </div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row" colspan="4">
+                    Credit Card Annual Fee Rebate<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-8">8</a></sup>
+                </th>
+            </tr>
+            <tr class="acc-row">
+                <td class="D2D-col">
+                    No rebate
+                </td>
+                <td class="Adv-col">
+                    <span class="notStudent">No rebate</span>
+                    <span class="isStudent">Up to $39 rebate<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-9">9</a></sup></span>
+                </td>
+                <td class="SNL-col">
+                    Up to $39 rebate
+                </td>
+                <td class="VIP-col">
+                    Up to $120 rebate
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row" colspan="4">
+                    Additional Canadian and U.S. Dollar Accounts
+                </th>
+            </tr>
+            <tr class="acc-row">
+                <td class="D2D-col">
+                    $11.95+
+                </td>
+                <td class="Adv-col">
+                    $11.95+
+                </td>
+                <td class="SNL-col">
+                    $11.95+
+                </td>
+                <td class="VIP-col">
+                    Included<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-10">10</a></sup>
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row" colspan="4">
+                    Overdraft Protection<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-11">11</a></sup><button class="tooltip-trigger" id="overDraftProtectionInfoComp" data-dig-id="account-selector-32" data-id="overdraft-tip-5"><span class="offscreen">Overdraft protection</span></button>
+                    <div id="overdraft-tip-5" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="overdraft-tip-content-5" aria-hidden="true">
+                        <div id="overdraft-tip-content-5" class="tooltip-inner overdraft-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+            </tr>
+            <tr class="acc-row">
+                <td class="D2D-col">
+                    $5/month
+                </td>
+                <td class="Adv-col">
+                    $5/month
+                </td>
+                <td class="SNL-col">
+                    Fee waived
+                </td>
+                <td class="VIP-col">
+                    Fee waived
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row" colspan="4">
+                    Safe Deposit Box<button class="tooltip-trigger" id="safeDepositBoxInfoComp" data-dig-id="account-selector-33" data-id="safe-deposit-tip-6"><span class="offscreen">Safe deposit</span></button>
+                    <div id="safe-deposit-tip-6" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="safe-deposit-tip-content-6" aria-hidden="true">
+                        <div id="safe-deposit-tip-content-6" class="tooltip-inner safe-deposit-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+            </tr>
+            <tr class="acc-row">
+                <td class="D2D-col">
+                    $60+/year
+                </td>
+                <td class="Adv-col">
+                    <span class="notNewcomer">$60+/year</span>
+                    <span class="isNewcomer">Up to $12 discount/year<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-13">13</a></sup></span>
+                </td>
+                <td class="SNL-col">
+                    Up to $12 discount/year
+                </td>
+                <td class="VIP-col">
+                    Up to $60 discount/year
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h4 id="monthly-fee-title-compare" class="rbcdisplay-bold text-center mar-tb">Monthly Fee</h4>
+    <table class="table-swipe w-full grey-table" id="compare-table-fees">
+        <tbody>
+            <tr class="hasAdditionalFeesCompare">
+                <th class="table-subtitle" scope="row" colspan="4">
+                    Monthly Fee (before savings<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-14">14</a></sup>)
+                </th>
+            </tr>
+            <tr class="hasAdditionalFeesCompare acc-row">
+                <td class="D2D-col">
+                    <span class="D2DBaseCost"></span>
+                </td>
+                <td class="Adv-col">
+                    <span class="AdvBaseCost"></span>
+                </td>
+                <td class="SNL-col">
+                    <span class="SNLBaseCost"></span>
+                </td>
+                <td class="VIP-col">
+                    <span class="VIPBaseCost"></span>
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row" colspan="4">
+                    <p class="mar-b-0">Total Fees (before savings<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-14">14</a></sup>)</p>
+                    <p>Monthly Fee + Other Fees</p>
+                </th>
+            </tr>
+            <tr class="acc-row">
+                <td class="D2D-col">
+                    <span class="D2DFeesCost"></span><button class="tooltip-trigger hasAdditionalFeesD2D" data-id="d2d-fees-tip"><span class="offscreen">Day to day banking fee details</span></button>
+                    <div id="d2d-fees-tip" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="d2d-fees-tip-content" aria-hidden="true">
+                        <div id="d2d-fees-tip-content" class="tooltip-inner">
+                            <p class="hasTransactionOverage">12 Debit transactions included and <span class="transactionOverageNum">4</span> excess debit transactions at $1.25 each.</p>
+                            <p class="hasNonRbcAtmOverageD2D">Based on your proposed non-ATM usage, you would need an additional <span class="nonRbcAtmOverageNumD2D">4</span> withdrawals at $2 each</p>
+                        </div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </td>
+                <td class="Adv-col">
+                    <span class="AdvFeesCost"></span>
+                </td>
+                <td class="SNL-col">
+                    <span class="SNLFeesCost"></span><button class="tooltip-trigger hasAdditionalFeesSNL" data-id="snl-fees-tip"><span class="offscreen">Signature No Limit Banking fee details</span></button>
+                    <div id="snl-fees-tip" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="snl-fees-tip-content" aria-hidden="true">
+                        <div id="snl-fees-tip-content" class="tooltip-inner">
+                            Based on your proposed non-ATM usage, you would need an additional <span class="nonRbcAtmOverageNumSNL">4</span> withdrawals at $2 each
+                        </div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </td>
+                <td class="VIP-col">
+                    <span class="VIPFeesCost"></span>
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row" colspan="4">
+                    No Minimum Balance Required &mdash; even to get rebates<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-14">14</a></sup>
+                </th>
+            </tr>
+        </tbody>
+    </table>
+    <h4 class="rbcdisplay-bold text-center mar-tb">Ways to Save and Earn</h4>
+    <table class="table-swipe w-full grey-table" id="compare-table-save">
+        <tbody>
+            <tr class="hasRebateCompare acc-row">
+                <th id="waysToSaveD2D" class="table-subtitle waysToSaveRebate D2D-col" aria-hidden="true" colspan="1"><span class="offscreen">empty</span></th>
+                <th id="waysToSaveAdv" class="table-subtitle waysToSaveRebate Adv-col" aria-hidden="true" colspan="1"><span class="offscreen">empty</span></th>
+                <th id="waysToSaveSNL" class="table-subtitle waysToSaveRebate SNL-col" aria-hidden="true" colspan="1"><span class="offscreen">empty</span></th>
+                <th id="waysToSaveVIP" class="table-subtitle waysToSaveRebate VIP-col" aria-hidden="true" colspan="1"><span class="offscreen">empty</span></th>
+                <th id="waysToSaveAll" class="table-subtitle waysToSaveRebate" aria-hidden="true" colspan="2"><span class="offscreen">empty</span></th>
+            </tr>
+            <tr class="acc-row hasRebateCompare">
+                <td class="D2D-col">
+                    <strike><span class="offscreen">Original fee</span><span class="D2DBaseCost"></span></strike>
+                    <p><span class="D2DFinalCost"></span><button class="tooltip-trigger hasSeniorRebate" data-dig-id="account-selector-34" data-id="d2d-senior-rebate-tip"><span class="offscreen">Senior rebate</span></button></p>
+                    <div id="d2d-senior-rebate-tip" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="d2d-senior-rebate-tip-content" aria-hidden="true">
+                        <div id="d2d-senior-rebate-tip-content" class="tooltip-inner">
+                            <span class="D2DFinalCost"></span> or less with other eligible rebate
+                        </div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </td>
+                <td class="Adv-col">
+                    <strike><span class="offscreen">Original fee</span><span class="AdvBaseCost"></span></strike>
+                    <p><span class="AdvFinalCost"></span><button class="tooltip-trigger hasSeniorRebate" data-dig-id="account-selector-34" data-id="adv-senior-rebate-tip"><span class="offscreen">Senior rebate</span></button></p>
+                    <div id="adv-senior-rebate-tip" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="adv-senior-rebate-tip-content" aria-hidden="true">
+                        <div id="adv-senior-rebate-tip-content" class="tooltip-inner">
+                            <span class="AdvFinalCost"></span> or less with other eligible rebate
+                        </div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </td>
+                <td class="SNL-col">
+                    <strike><span class="offscreen">Original fee</span><span class="SNLBaseCost"></span></strike>
+                    <p><span class="SNLFinalCost"></span><button class="tooltip-trigger hasSeniorRebate" data-dig-id="account-selector-34" data-id="snl-senior-rebate-tip"><span class="offscreen">Senior rebate</span></button></p>
+                    <div id="snl-senior-rebate-tip" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="snl-senior-rebate-tip-content" aria-hidden="true">
+                        <div id="snl-senior-rebate-tip-content" class="tooltip-inner">
+                            <span class="SNLFinalCost"></span> or less with other eligible rebate
+                        </div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </td>
+                <td class="VIP-col">
+                    <strike><span class="offscreen">Original fee</span><span class="VIPBaseCost"></span></strike>
+                    <p><span class="VIPFinalCost"></span><button class="tooltip-trigger hasSeniorRebate" data-dig-id="account-selector-34" data-id="vip-senior-rebate-tip"><span class="offscreen">Senior rebate</span></button></p>
+                    <div id="vip-senior-rebate-tip" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="vip-senior-rebate-tip-content" aria-hidden="true">
+                        <div id="vip-senior-rebate-tip-content" class="tooltip-inner">
+                            <span class="VIPFinalCost"></span> or less with other eligible rebate
+                        </div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row" colspan="4">
+                    <p><span class="hasRebateCompare">PLUS </span>Earn up to <span class="valueProgramPoints">150</span> RBC Rewards points per month with Your <span class="no-wrap">Account<button class="tooltip-trigger" data-dig-id="account-selector-35" data-id="rewards-points-tip-6"><span class="offscreen">Rewards points</span></button></span></p>
+                    <span class="roboto-light">Enrol in Value Program and earn 1 point per <span class="valueProgramPriceWpr">$<span class="valueProgramPrice">10</span></span> spent on <span class="no-wrap">debit<button class="tooltip-trigger" data-dig-id="account-selector-37" data-id="value-program-tip-6"><span class="offscreen">Value program</span></button></span></span>
+                    <div id="rewards-points-tip-6" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="rewards-points-tip-content-6" aria-hidden="true">
+                        <div id="rewards-points-tip-content-6" class="tooltip-inner rewards-points-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                    <div id="value-program-tip-6" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="value-program-tip-content-6" aria-hidden="true">
+                        <div id="value-program-tip-content-6" class="tooltip-inner value-program-tip-content-results"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+            </tr>
+            <tr class="acc-row">
+                <td class="D2D-col pad-b-0">
+                    <a href="https://apps.royalbank.com/apps/account-open/?pid1=022&lang=en" target="_blank" class="openThisAccount btn secondary compareOpen"></a>
+                </td>
+                <td class="Adv-col pad-b-0">
+                    <a href="https://apps.royalbank.com/apps/account-open/?pid1=099&lang=en" target="_blank" class="openThisAccount btn secondary compareOpen"></a>
+                </td>
+                <td class="SNL-col pad-b-0">
+                    <a href="https://apps.royalbank.com/apps/account-open/?pid1=004&lang=en" target="_blank" class="openThisAccount btn secondary compareOpen"></a>
+                </td>
+                <td class="VIP-col pad-b-0">
+                    <a href="https://apps.royalbank.com/apps/account-open/?pid1=020&lang=en" target="_blank" class="openThisAccount btn secondary compareOpen"></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+                    </div>
+                  </div>
+                  <div class="compare-wpr text-center">
+                      <a href="javascript:void(0);" id="close-comparison-btn-desktop" class="closeComparisonLink mob-pad-r-hlf font-16"><span class="comparison-text">Close Account Comparison</span></a>
+                  </div>
+                </div>
+              </section>
+
+              <div class="results-inner-wrap">
+
+                <section id="recommendationCard">
+                  <div class="section-inner pad-0">
+                    <div class="recommendation field-row mob-mar-lr-0">
+                      <div class="top-section col-12 mob-mar-t-0">
+                        <div class="panel panel-primary panel-primary-low recommendation_callOut mar-b-0" data-account-key="">
+                          <div class="panel-top display-mob-block">
+                            <div class="panel-top-left text-center-mob">
+                              <p class="text-script recommendedHeadLine"></p>
+                              <p class="text-script selectedHeadLine"></p>
+                              <h3 id="recommendedProduct" class="h2 rbcdisplay-bold mar-t-0 recommendedProduct">RBC Signature No Limit Banking</h3>
+                              <p class="text-grey productTagLine text-cap-sm mar-b-0">The Unlimited Account</p>
+                            </div>
+                            <div class="panel-top-right">
+                              <strike><span class="offscreen">Original fee</span><span class="baseCost"></span></strike>
+                              <h3 class="presentedCost roboto-bold mar-b-0 mar-t-qtr mob-mar-b-qtr">
+                                <span class="offscreen">Updated fee</span>
+                                <span class="finalPresCost">$0</span>
+                              </h3>
+                              <p class="rebateDetails text-script text-center mob-mar-b-0 w-100"></p>
+                              <p class="hasAdditionalFees text-center text-disclaimer w-100">Based on your proposed usage, <a id="monthly-fee-link" data-dig-id="account-selector-10" href="javascript:void(0);" data-target="#monthly-fee-section" class="scrollto no-wrap">additional fees may apply</a></p>
+                            </div>
+                          </div>
+                          <div class="panel-bottom text-center-mob display-mob-block">
+
+                            <p class="mar-b-0 text-small roboto-regular pad-r mob-pad-0 mob-mar-b">Enrol your account in the Value Program and <span class="text-bold">Earn 1 RBC Rewards point per $<span class="valueProgramPrice">5</span></span> spent on debit</p>
+
+                            <button id="saveFeeEarnPointsModalUpper" data-dig-id="account-selector-11" class="btn mar-0 blue-button value-program-modal_open w-mob-100">Save on Fees and Earn Points Faster</button>
+                          </div>
+                          <div class="panel-bottom text-center-mob display-mob-block">
+                            <a href="javascript:void(0);" id="openAccount" target="_blank" class="openThisAccount btn secondary mar-0 pad-lr mob-mar-b w-mob-100"></a>
+                            <div class="edit-compare-wpr">
+                              <a href="javascript:void(0);" class="icon-link showDetailsModal_open desktop-hidden mob-pad-r-qtr mar-b-0" id="editDetailsBtn" data-dig-id="account-selector-6">
+                                <img class="icon-20" src="/dvl/v1.0/assets/images/icons/icon-edit.svg" aria-label="edit compare accounts"/>
+                                <span class="edit-text"></span>
+                              </a>
+                              <div class="edit-compare-divider desktop-hidden"></div>
+                              <a aria-label="Compare Account opens modal window" href="javascript:void(0);" class="icon-link compareAccountsModal_open mob-pad-l-qtr" id="compareAccounts" data-dig-id="account-selector-7" data-popup-ordinal="1">
+                                <img style="align-self: center;" class="icon-20" src="/dvl/v1.0/assets/images/icons/icon-compare-circles.svg" alt="venn diagram icon">
+                                <span class="compare-text">Compare Accounts</span>
+                              </a>
+                            </div>
+                          </div>
+                        </div><!-- panel -->
+                      </div><!-- top section -->
+                    </div><!-- recommendation -->
+                  </div>
+                </section>
+
+                <section id="accountSummary_sec">
+                  <div class="section-inner row pad-0">
+                    <div class="grid-full results-callout pad-lr-0 mar-t-0">
+                      <h3 class="rbcdisplay-medium text-center recommendedSummaryTitle mar-tb mob-pad-lr-hlf"></h3>
+                      <h3 class="rbcdisplay-medium text-center selectedSummaryTitle mar-tb mob-pad-lr-hlf"></h3>
+                      <div id="D2D-summary-table-wpr" class="pad account-summary-table-wpr">
+    <h4 class="rbcdisplay-bold text-center mar-b">Features Included in this Account</h4>
+    <table class="table-swipe w-full grey-table" id="D2D-summary-table-features">
+        <tbody>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    12 Debit transactions<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-6">6</a></sup>
+                </th>
+                <td class="text-right">
+                    Included
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h4 class="rbcdisplay-bold text-center mar-tb">Optional Services</h4>
+    <table class="table-swipe w-full grey-table" id="D2D-summary-table-services">
+        <tbody>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Excess Debit Transactions (beyond the 12 included)
+                </th>
+                <td class="text-right">
+                    $1.25 each
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Using a Non-RBC ATM</p>
+                    <span class="text-small roboto-light">In addition to any fees another bank may charge to use their <em>Interac</em> ATM in Canada<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-7">7</a></sup>.</span>
+                </th>
+                <td class="text-right">
+                    $2 per withdrawal
+                </td>
+            </tr>
+            <tr class="hasCreditCard">
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Rebate on Credit Card Annual Fee</p>
+                    <span class="text-small roboto-light">(Included with Signature No Limit Banking and VIP Banking)</span>
+                </th>
+                <td class="text-right">
+                    No rebate
+                </td>
+            </tr>
+            <tr class="hasAdditionalAccounts">
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Additional Account(s)</p>
+                    <span class="text-small roboto-light">(Included with VIP Banking)</span>
+                </th>
+                <td class="text-right">
+                    $11.95+/month
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Overdraft Protection<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-11">11</a></sup><button class="tooltip-trigger" data-dig-id="account-selector-13" data-id="overdraft-tip-4"><span class="offscreen">Overdraft protection</span></button></p>
+                    <span class="text-small roboto-light">(Included with Signature No Limit Banking and VIP Banking)</span>
+                    <div id="overdraft-tip-4" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="overdraft-tip-content-4" aria-hidden="true">
+                        <div id="overdraft-tip-content-4" class="tooltip-inner overdraft-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+                <td class="text-right">
+                    $5/month
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Safe Deposit Box<button class="tooltip-trigger" data-dig-id="account-selector-26" data-id="safe-deposit-tip-5"><span class="offscreen">Safe deposit</span></button></p>
+                    <span class="text-small roboto-light">(Discounted with Signature No Limit Banking and VIP Banking)</span>
+                    <div id="safe-deposit-tip-5" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="safe-deposit-tip-content-5" aria-hidden="true">
+                        <div id="safe-deposit-tip-content-5" class="tooltip-inner safe-deposit-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+                <td class="text-right">
+                    $60+/year
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h4 id="monthly-fee-title-D2D" class="rbcdisplay-bold text-center mar-tb">Monthly Fee</h4>
+    <table class="table-swipe w-full grey-table" id="D2D-summary-table-fees">
+        <tbody>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Monthly Fee (before savings)<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-14">14</a></sup>
+                </th>
+                <td class="text-right">
+                    <span class="D2DBaseCost">$4</span>
+                </td>
+            </tr>
+            <tr class="hasTransactionOverage">
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">12 Debit Transactions Included<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-6">6</a></sup></p>
+                    <span class="text-small roboto-light">And <span class="transactionOverageNum">3</span> excess debit transactions at $1.25 each</span>
+                </th>
+                <td class="text-right">
+                    + <span class="transactionOverageCost">$3.75</span>
+                </td>
+            </tr>
+            <tr class="hasNonRbcAtmOverageD2D">
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Using a Non-RBC ATM</p>
+                    <span class="mar-b-0 roboto-light text-small display-block">$2 per withdrawal at a non-RBC <em>Interac</em> ATM in Canada, in addition to any fees another bank may charge to use their ATM</span>
+                    <span class="display-block roboto-light font-16"><em>Based on your proposed non-ATM usage, you would need an additional <span class="nonRbcAtmOverageNumD2D">1</span> withdrawals at $2 each</em></span>
+                </th>
+                <td class="text-right">
+                    + <span class="nonRbcAtmOverageCostD2D">$2</span>
+                </td>
+            </tr>
+            <tr class="hasAdditionalFeesD2D">
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Total Fees (before savings)<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-14">14</a></sup></p>
+                    <p>Monthly Fee + Other Fees</p>
+                </th>
+                <td class="text-right">
+                    <span class="D2DFeesCost">$9.75</span>
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Minimum Balance
+                </th>
+                <td class="text-right">
+                    Never required &mdash; even to get rebates<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-14">14</a></sup>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h4 class="rbcdisplay-bold text-center mar-tb">Ways to Save and Earn</h4>
+    <table class="table-swipe w-full grey-table" id="D2D-summary-table-save">
+        <tbody>
+            <tr class="hasProductRebate">
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Monthly Fee after Value Program Rebate*<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-2">2</a></sup></p>
+                    <span class="text-small roboto-light">*You must enrol your account in the Value Program. Requires certain RBC product holdings and account activities.</span>
+                    <p><a href='/accounts/value-program.html' target='_blank' class='newwindow-link'>Learn more  <span class='offscreen'>about the value program opens in new window</span></a></p>
+                </th>
+                <td class="text-right">
+                    <strike><span class="offscreen">Original fee</span><span class="D2DFeesCost">$9.75</span></strike>
+                    <p class="text-bold D2DFinalCost">$5.75</p>
+                </td>
+            </tr>
+            <tr class="hasSeniorRebate">
+                <th class="table-subtitle" scope="row">
+                    Monthly Fee after Rebate for Seniors (age 65+)<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-3">3</a></sup>
+                </th>
+                <td class="text-right">
+                    <strike><span class="offscreen">Original fee</span><span class="D2DFeesCost">$9.75</span></strike>
+                    <p><span class="text-bold D2DFinalCost">$5.75</span> or less with other eligible rebate</p>
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">PLUS Earn RBC Rewards <span class="no-wrap">Points<button class="tooltip-trigger" data-dig-id="account-selector-27" data-id="rewards-points-tip-4"><span class="offscreen">Rewards points</span></button></span> with Your Account. Enrol in Value Program and earn 1 point per <span class="valueProgramPriceWpr">$<span class="valueProgramPrice">10</span></span> spent on debit</p>
+                    <p><button class="roboto-regular underline value-program-modal_open">
+                        <span data-dig-id="account-selector-31" class="saveFeeEarnPointsModalLower prePointsText 100-300-points">Save on fees and earn points faster</span>
+                        <span data-dig-id="account-selector-31" class="saveFeeEarnPointsModalLower 500PointsText 500-points">See how your products help you save on fees and earn points faster</span>
+                    </button></p>
+                    <div id="rewards-points-tip-4" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="rewards-points-tip-content-4" aria-hidden="true">
+                        <div id="rewards-points-tip-content-4" class="tooltip-inner rewards-points-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+                <td class="text-right">
+                    Maximum <span class="prePointsText">of</span> <span class="text-bold valueProgramPoints">150</span> points per <span class="no-wrap">month.<button class="tooltip-trigger" data-dig-id="account-selector-29" data-id="value-program-tip-4"><span class="offscreen">Value program</span></button></span>
+                    <div id="value-program-tip-4" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="value-program-tip-content-4" aria-hidden="true">
+                        <div id="value-program-tip-content-4" class="tooltip-inner value-program-tip-content-results"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+                      <div id="Adv-summary-table-wpr" class="pad account-summary-table-wpr">
+    <h4 class="rbcdisplay-bold text-center mar-b">Features Included in this Account</h4>
+    <table class="table-swipe w-full grey-table" id="Adv-summary-table-features">
+        <tbody>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Unlimited Debit Transactions in Canada
+                </th>
+                <td class="text-right">
+                    FREE
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Using a Non-RBC ATM</p>
+                    <span class="text-small roboto-light">We won't charge a fee to use a non-RBC <em>Interac</em> ATM in Canada, but another bank may charge a fee to use their ATM<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-7">7</a></sup>.</span>
+                </th>
+                <td class="text-right">
+                    FREE
+                </td>
+            </tr>
+            <tr class="isStudent">
+                <th class="table-subtitle" scope="row">
+                    Rebate for Students on Credit Card Annual Fee<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-9">9</a></sup>
+                </th>
+                <td class="text-right">
+                    Up to $39 rebate
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h4 class="rbcdisplay-bold text-center mar-tb">Optional Services</h4>
+    <table class="table-swipe w-full grey-table" id="Adv-summary-table-services">
+        <tbody>
+            <tr class="hasCreditCard notStudent">
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Rebate on Credit Card Annual Fee</p>
+                    <span class="text-small roboto-light">(Included with Signature No Limit Banking and VIP Banking)</span>
+                </th>
+                <td class="text-right">
+                    No rebate
+                </td>
+            </tr>
+            <tr class="hasAdditionalAccounts">
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Additional Account(s)</p>
+                    <span class="text-small roboto-light">(Included with VIP Banking)</span>
+                </th>
+                <td class="text-right">
+                    $11.95+/month
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Overdraft Protection<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-11">11</a></sup><button class="tooltip-trigger" data-dig-id="account-selector-13" data-id="overdraft-tip-1"><span class="offscreen">Overdraft protection</span></button></p>
+                    <span class="text-small roboto-light">(Fee waived with Signature No Limit Banking and VIP Banking)</span>
+                    <div id="overdraft-tip-1" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="overdraft-tip-content-1" aria-hidden="true">
+                        <div id="overdraft-tip-content-1" class="tooltip-inner overdraft-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+                <td class="text-right">
+                    $5/month
+                </td>
+            </tr>
+            <tr class="notNewcomer">
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Safe Deposit Box<button class="tooltip-trigger" data-dig-id="account-selector-26" data-id="safe-deposit-tip-1"><span class="offscreen">Safe deposit</span></button></p>
+                    <span class="text-small roboto-light">(Discounted with Signature No Limit Banking and VIP Banking)</span>
+                    <div id="safe-deposit-tip-1" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="safe-deposit-tip-content-1" aria-hidden="true">
+                        <div id="safe-deposit-tip-content-1" class="tooltip-inner safe-deposit-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+                <td class="text-right">
+                    $60+/year
+                </td>
+            </tr>
+            <tr class="isNewcomer">
+                <th class="table-subtitle" scope="row">
+                    Safe Deposit Box<button class="tooltip-trigger" data-dig-id="account-selector-26" data-id="safe-deposit-tip-2"><span class="offscreen">Safe deposit</span></button>
+                    <div id="safe-deposit-tip-2" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="safe-deposit-tip-content-2" aria-hidden="true">
+                        <div id="safe-deposit-tip-content-2" class="tooltip-inner safe-deposit-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+                <td class="text-right">
+                    Up to $60 discount/year <span class="no-wrap"><a href="/banking-services/safe-deposit-box.html" target="_blank" class='newwindow-link underline'>on regular fees</a><sup class="pad-l-qtr"><a href="javascript:void(0);" class="scrollto" data-target="#legal-13">13</a></sup></span>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h4 id="monthly-fee-title-Adv" class="rbcdisplay-bold text-center mar-tb">Monthly Fee</h4>
+    <table class="table-swipe w-full grey-table" id="Adv-summary-table-fees">
+        <tbody>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Monthly Fee (before savings)<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-14">14</a></sup>
+                </th>
+                <td class="text-right">
+                    <span class="AdvBaseCost">$11.95</span>
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Minimum Balance
+                </th>
+                <td class="text-right">
+                    Never required &mdash; even to get rebates<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-14">14</a></sup>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h4 class="rbcdisplay-bold text-center mar-tb">Ways to Save and Earn</h4>
+    <table class="table-swipe w-full grey-table" id="Adv-summary-table-save">
+        <tbody>
+            <tr class="hasProductRebate">
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Monthly Fee after Value Program Rebate*<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-2">2</a></sup></p>
+                    <span class="text-small roboto-light">*You must enrol your account in the Value Program. Requires certain minimum RBC product holdings and account activities.</span>
+                    <p><a href='/accounts/value-program.html' target='_blank' class='newwindow-link'>Learn more  <span class='offscreen'>about value program opens in new window</span></a></p>
+                </th>
+                <td class="text-right">
+                    <strike><span class="offscreen">Original fee</span><span class="AdvFeesCost">$11.95</span></strike>
+                    <p class="text-bold AdvFinalCost">$5.95 or FREE</p>
+                </td>
+            </tr>
+            <tr class="hasSeniorRebate">
+                <th class="table-subtitle" scope="row">
+                    Monthly Fee after Rebate for Seniors (age 65+)<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-3">3</a></sup>
+                </th>
+                <td class="text-right">
+                    <strike><span class="offscreen">Original fee</span><span class="AdvFeesCost">$11.95</span></strike>
+                    <p><span class="text-bold AdvFinalCost">$7.95</span> or less with other eligible rebate</p>
+                </td>
+            </tr>
+            <tr class="hasStudentRebate">
+                <th class="table-subtitle" scope="row">
+                    Monthly Fee for Full-Time Students (until graduation)<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-5">5</a></sup>
+                </th>
+                <td class="text-right">
+                    <strike><span class="offscreen">Original fee</span><span class="AdvFeesCost">$11.95</span></strike>
+                    <p class="text-bold AdvFinalCost">FREE</p>
+                </td>
+            </tr>
+            <tr class="hasNewcomerRebate">
+                <th class="table-subtitle" scope="row">
+                    Monthly Fee for Newcomers (for 12 months)<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-4">4</a></sup>
+                </th>
+                <td class="text-right">
+                    <strike><span class="offscreen">Original fee</span><span class="AdvFeesCost">$11.95</span></strike>
+                    <p class="text-bold AdvFinalCost">FREE</p>
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">PLUS Earn RBC Rewards <span class="no-wrap">Points<button class="tooltip-trigger" data-dig-id="account-selector-27" data-id="rewards-points-tip-2"><span class="offscreen">Rewards points</span></button></span> with Your Account. Enrol in Value Program and earn 1 point per <span class="valueProgramPriceWpr">$<span class="valueProgramPrice">10</span></span> spent on debit</p>
+                    <p><button class="roboto-regular underline value-program-modal_open">
+                        <span data-dig-id="account-selector-31" class="saveFeeEarnPointsModalLower prePointsText 100-300-points">Save on fees and earn points faster</span>
+                        <span data-dig-id="account-selector-31" class="saveFeeEarnPointsModalLower 500PointsText 500-points">See how your products help you save on fees and earn points faster</span>
+                    </button></p>
+                    <div id="rewards-points-tip-2" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="rewards-points-tip-content-2" aria-hidden="true">
+                        <div id="rewards-points-tip-content-2" class="tooltip-inner rewards-points-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+                <td class="text-right">
+                    Maximum <span class="prePointsText">of</span> <span class="text-bold valueProgramPoints">150</span> points per <span class="no-wrap">month.<button class="tooltip-trigger" data-dig-id="account-selector-29" data-id="value-program-tip-2"><span class="offscreen">Value program</span></button></span>
+                    <div id="value-program-tip-2" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="value-program-tip-content-2" aria-hidden="true">
+                        <div id="value-program-tip-content-2" class="tooltip-inner value-program-tip-content-results"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+                      <div id="SNL-summary-table-wpr" class="pad account-summary-table-wpr">
+    <h4 class="rbcdisplay-bold text-center mar-b">Features Included in this Account</h4>
+    <table class="table-swipe w-full grey-table" id="SNL-summary-table-features">
+        <tbody>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Unlimited Debit Transactions in Canada
+                </th>
+                <td class="text-right">
+                    FREE
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Using a Non-RBC ATM</p>
+                    <span class="text-small roboto-light">In addition to any fees another bank may charge to use their <em>Interac</em> ATM in Canada<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-7">7</a></sup>.</span>
+                </th>
+                <td class="text-right">
+                    3 waived/month, $2 each thereafter
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Rebate on Credit Card Annual Fee<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-8">8</a></sup><button class="tooltip-trigger" data-dig-id="account-selector-12" data-id="credit-card-rebate-tip-1"><span class="offscreen">Credit card rebate</span></button>
+                    <div id="credit-card-rebate-tip-1" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="credit-card-rebate-tip-content-1" aria-hidden="true">
+                        <div id="credit-card-rebate-tip-content-1" class="tooltip-inner credit-card-rebate-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+                <td class="text-right">
+                    Up to $39 rebate
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Overdraft Protection<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-11">11</a></sup><button class="tooltip-trigger" data-dig-id="account-selector-13" data-id="overdraft-tip-2"><span class="offscreen">Overdraft protection</span></button>
+                    <div id="overdraft-tip-2" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="overdraft-tip-content-2" aria-hidden="true">
+                        <div id="overdraft-tip-content-2" class="tooltip-inner overdraft-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+                <td class="text-right">
+                    Fee waived
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h4 class="rbcdisplay-bold text-center mar-tb">Optional Services</h4>
+    <table class="table-swipe w-full grey-table" id="SNL-summary-table-services">
+        <tbody>
+            <tr class="hasAdditionalAccounts">
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Additional Account(s)</p>
+                    <span class="text-small roboto-light">(Included with VIP Banking)</span>
+                </th>
+                <td class="text-right">
+                    $11.95+/month
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Safe Deposit Box<button class="tooltip-trigger" data-dig-id="account-selector-26" data-id="safe-deposit-tip-3"><span class="offscreen">Safe deposit</span></button>
+                    <div id="safe-deposit-tip-3" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="safe-deposit-tip-content-3" aria-hidden="true">
+                        <div id="safe-deposit-tip-content-3" class="tooltip-inner safe-deposit-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+                <td class="text-right">
+                    Up to $12 discount/year <a href="/banking-services/safe-deposit-box.html" target="_blank" class='newwindow-link underline'>on regular fees</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h4 id="monthly-fee-title-SNL" class="rbcdisplay-bold text-center mar-tb">Monthly Fee</h4>
+    <table class="table-swipe w-full grey-table" id="SNL-summary-table-fees">
+        <tbody>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Monthly Fee (before savings)<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-14">14</a></sup>
+                </th>
+                <td class="text-right">
+                    <span class="SNLBaseCost">$15.95</span>
+                </td>
+            </tr>
+            <tr class="hasNonRbcAtmOverageSNL">
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Using a Non-RBC ATM</p>
+                    <span class="mar-b-0 roboto-light text-small display-block">3 waived per month; $2 per withdrawal thereafter at a non-RBC <em>Interac</em> ATM in Canada, in addition to any fees another bank may charge to use their ATM<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-7">7</a></sup>.</span>
+                    <span class="display-block roboto-light font-16"><em>Based on your proposed non-ATM usage, you would need an additional <span class="nonRbcAtmOverageNumSNL">2</span> withdrawals at $2 each</em></span>
+                </th>
+                <td class="text-right">
+                    + <span class="nonRbcAtmOverageCostSNL">$4</span>
+                </td>
+            </tr>
+            <tr class="hasAdditionalFeesSNL">
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Total Fees (before savings)<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-14">14</a></sup></p>
+                    <p>Monthly Fee + Other Fees</p>
+                </th>
+                <td class="text-right">
+                    <span class="SNLFeesCost">$19.95</span>
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Minimum Balance
+                </th>
+                <td class="text-right">
+                    Never required &mdash; even to get rebates<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-14">14</a></sup>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h4 class="rbcdisplay-bold text-center mar-tb">Ways to Save and Earn</h4>
+    <table class="table-swipe w-full grey-table" id="SNL-summary-table-save">
+        <tbody>
+            <tr class="hasProductRebate">
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Monthly Fee after Value Program Rebate*<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-2">2</a></sup></p>
+                    <span class="text-small roboto-light">*You must enrol your account in the Value Program. Requires certain minimum RBC product holdings and account activities.</span>
+                    <p><a href='/accounts/value-program.html' target='_blank' class='newwindow-link'>Learn more  <span class='offscreen'>opens in new window</span></a></p>
+                </th>
+                <td class="text-right">
+                    <strike><span class="offscreen">Original fee</span><span class="SNLFeesCost">$19.95</span></strike>
+                    <p class="text-bold SNLFinalCost">$13.95</p>
+                </td>
+            </tr>
+            <tr class="hasSeniorRebate">
+                <th class="table-subtitle" scope="row">
+                    Monthly Fee after Rebate for Seniors (age 65+)<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-3">3</a></sup>
+                </th>
+                <td class="text-right">
+                    <strike><span class="offscreen">Original fee</span><span class="SNLFeesCost">$19.95</span></strike>
+                    <p><span class="text-bold SNLFinalCost">$15.95</span> or less with other eligible rebate</p>
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">PLUS Earn RBC Rewards <span class="no-wrap">Points<button class="tooltip-trigger" data-dig-id="account-selector-27" data-id="rewards-points-tip-3"><span class="offscreen">Rewards points</span></button></span> with Your Account. Enrol in Value Program and earn 1 point per <span class="valueProgramPriceWpr">$<span class="valueProgramPrice">10</span></span> spent on debit</p>
+                    <p><button class="roboto-regular underline value-program-modal_open">
+                        <span data-dig-id="account-selector-31" class="saveFeeEarnPointsModalLower prePointsText 100-300-points">Save on fees and earn points faster</span>
+                        <span data-dig-id="account-selector-31" class="saveFeeEarnPointsModalLower 500PointsText 500-points">See how your products help you save on fees and earn points faster</span>
+                    </button></p>
+                    <div id="rewards-points-tip-3" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="rewards-points-tip-content-3" aria-hidden="true">
+                        <div id="rewards-points-tip-content-3" class="tooltip-inner rewards-points-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+                <td class="text-right">
+                    Maximum <span class="prePointsText">of</span> <span class="text-bold valueProgramPoints">150</span> points per <span class="no-wrap">month.<button class="tooltip-trigger" data-dig-id="account-selector-29" data-id="value-program-tip-3"><span class="offscreen">Value program</span></button></span>
+                    <div id="value-program-tip-3" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="value-program-tip-content-3" aria-hidden="true">
+                        <div id="value-program-tip-content-3" class="tooltip-inner value-program-tip-content-results"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+                      <div id="VIP-summary-table-wpr" class="pad account-summary-table-wpr">
+    <h4 class="rbcdisplay-bold text-center mar-b">Features Included in this Account</h4>
+    <table class="table-swipe w-full grey-table" id="VIP-summary-table-features">
+        <tbody>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Unlimited Debit Transactions (Worldwide)
+                </th>
+                <td class="text-right">
+                    FREE
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Using a Non-RBC ATM (Worldwide)</p>
+                    <span class="text-small roboto-light">We won't charge a fee to use a non-RBC <em>Interac</em> or PLUS System ATM, but another bank may charge a fee to use their ATM<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-7">7</a></sup>.</span>
+                </th>
+                <td class="text-right">
+                    FREE
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Rebate on Credit Card Annual Fee<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-8">8</a></sup><button class="tooltip-trigger" data-dig-id="account-selector-12" data-id="credit-card-rebate-tip-2"><span class="offscreen">Credit card rebate</span></button>
+                    <div id="credit-card-rebate-tip-2" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="credit-card-rebate-tip-content-2" aria-hidden="true">
+                        <div id="credit-card-rebate-tip-content-2" class="tooltip-inner credit-card-rebate-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+                <td class="text-right">
+                    Up to $120 rebate
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Additional Account(s)
+                </th>
+                <td class="text-right">
+                    Up to 2 Canadian and 1 U.S. dollar accounts included<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-10">10</a></sup>
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Overdraft Protection<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-11">11</a></sup><button class="tooltip-trigger" data-dig-id="account-selector-13" data-id="overdraft-tip-3"><span class="offscreen">Overdraft protection</span></button>
+                    <div id="overdraft-tip-3" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="overdraft-tip-content-3" aria-hidden="true">
+                        <div id="overdraft-tip-content-3" class="tooltip-inner overdraft-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+                <td class="text-right">
+                    Fee waived
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h4 class="rbcdisplay-bold text-center mar-tb">Optional Services</h4>
+    <table class="table-swipe w-full grey-table" id="VIP-summary-table-services">
+        <tbody>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Safe Deposit Box<button class="tooltip-trigger" data-dig-id="account-selector-26" data-id="safe-deposit-tip-4"><span class="offscreen">Safe deposit</span></button>
+                    <div id="safe-deposit-tip-4" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="safe-deposit-tip-content-4" aria-hidden="true">
+                        <div id="safe-deposit-tip-content-4" class="tooltip-inner safe-deposit-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+                <td class="text-right">
+                    Up to $60 discount/year <a href="/banking-services/safe-deposit-box.html" target="_blank" class='newwindow-link underline'>on regular fees</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h4 id="monthly-fee-title-VIP" class="rbcdisplay-bold text-center mar-tb">Monthly Fee</h4>
+    <table class="table-swipe w-full grey-table" id="VIP-summary-table-fees">
+        <tbody>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Monthly Fee (before savings)<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-14">14</a></sup>
+                </th>
+                <td class="text-right">
+                    <span class="VIPBaseCost">$30</span>
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    Minimum Balance
+                </th>
+                <td class="text-right">
+                    Never required &mdash; even to get rebates<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-14">14</a></sup>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h4 class="rbcdisplay-bold text-center mar-tb">Ways to Save and Earn</h4>
+    <table class="table-swipe w-full grey-table" id="VIP-summary-table-save">
+        <tbody>
+            <tr class="hasProductRebate">
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">Monthly Fee after Value Program Rebate*<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-2">2</a></sup></p>
+                    <span class="text-small roboto-light">*You must enrol your account in the Value Program. Requires certain minimum RBC product holdings and account activities.</span>
+                    <p><a href='/accounts/value-program.html' target='_blank' class='newwindow-link'>Learn more  <span class='offscreen'>opens in new window</span></a></p>
+                </th>
+                <td class="text-right">
+                    <strike><span class="offscreen">Original fee</span><span class="VIPFeesCost">$30</span></strike>
+                    <p class="text-bold VIPFinalCost">$24</p>
+                </td>
+            </tr>
+            <tr class="hasSeniorRebate">
+                <th class="table-subtitle" scope="row">
+                    Monthly Fee after Rebate for Seniors (age 65+)<sup><a href="javascript:void(0);" class="scrollto" data-target="#legal-3">3</a></sup>
+                </th>
+                <td class="text-right">
+                    <strike><span class="offscreen">Original fee</span><span class="VIPFeesCost">$30</span></strike>
+                    <p><span class="text-bold VIPFinalCost">$22.50</span> or less with other eligible rebate</p>
+                </td>
+            </tr>
+            <tr>
+                <th class="table-subtitle" scope="row">
+                    <p class="mar-b-0">PLUS Earn RBC Rewards <span class="no-wrap">Points<button class="tooltip-trigger" data-dig-id="account-selector-27" data-id="rewards-points-tip-5"><span class="offscreen">Rewards points</span></button></span> with Your Account. Enrol in Value Program and earn 1 point per <span class="valueProgramPriceWpr">$<span class="valueProgramPrice">10</span></span> spent on debit</p>
+                    <p><button class="roboto-regular underline value-program-modal_open">
+                        <span data-dig-id="account-selector-31" class="saveFeeEarnPointsModalLower prePointsText 100-300-points">Save on fees and earn points faster</span>
+                        <span data-dig-id="account-selector-31" class="saveFeeEarnPointsModalLower 500PointsText 500-points">See how your products help you save on fees and earn points faster</span>
+                    </button></p>
+                    <div id="rewards-points-tip-5" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="rewards-points-tip-content-5" aria-hidden="true">
+                        <div id="rewards-points-tip-content-5" class="tooltip-inner rewards-points-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </th>
+                <td class="text-right">
+                    Maximum <span class="prePointsText">of</span> <span class="text-bold valueProgramPoints">150</span> points per <span class="no-wrap">month.<button class="tooltip-trigger" data-dig-id="account-selector-29" data-id="value-program-tip-5"><span class="offscreen">Value program</span></button></span>
+                    <div id="value-program-tip-5" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="value-program-tip-content-5" aria-hidden="true">
+                        <div id="value-program-tip-content-5" class="tooltip-inner value-program-tip-content-results"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+                    </div>
+                  </div>
+                </section>
+
+              </div><!-- results inner wrap ends -->
+
+            </div><!-- two thirds -->
+
+          </div><!-- grid-wpr -->
+
+        </div> <!-- inner-section -->
+
+        <section id="extraPerks_sec">
+          <div class="section-inner pad-tb">
+            <h4 class="h2 rbcdisplay-medium heading-text text-center mar-b-qtr"></h4>
+            <h4 class="description-text text-center mar-t-0"></h4>
+            <p class="unlock-text text-script text-center"></p>
+            <div class="col-wpr eh-wpr mob-mar-t-0">
+              <div class="col-3">
+                <div class="benefits-card">
+                  <div class="mar-b-hlf mob-table-cell mob-mar-b-0 mob-pad-r-hlf"><img src="/dvl/v1.0/assets/images/icons/icon-rewards.svg" class="icon-40" alt=""></div>
+                  <div class="mob-table-cell va-mob-t">
+                    <h5 class="rbcdisplay-bold rewards-heading"></h5>
+                    <p class="rewards-desc"></p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-3">
+                <div class="benefits-card">
+                  <div class="mar-b-hlf mob-table-cell mob-mar-b-0 mob-pad-r-hlf"><img src="_assets-custom/images/icon-gas.svg" class="icon-40" alt=""></div>
+                  <div class="mob-table-cell va-mob-t">
+                    <h5 class="rbcdisplay-bold petroca-heading"></h5>
+                    <p class="petroca-desc"></p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-3">
+                <div class="benefits-card">
+                  <div class="mar-b-hlf mob-table-cell mob-mar-b-0 mob-pad-r-hlf"><img src="_assets-custom-reinvention/css/reinvention-dvl/images/phone.svg" class="icon-40" alt=""></div>
+                  <div class="mob-table-cell va-mob-t">
+                    <h5 class="rbcdisplay-bold offers-heading"></h5>
+                    <p class="offers-desc"></p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-3">
+                <div class="benefits-card">
+                  <div class="mar-b-hlf mob-table-cell mob-mar-b-0 mob-pad-r-hlf"><img src="/dvl/v1.0/assets/images/icons/icon-investments.svg" class="icon-40" alt=""></div>
+                  <div class="mob-table-cell va-mob-t">
+                    <h5 class="rbcdisplay-bold nomi-heading"></h5>
+                    <p class="nomi-desc"></p>
+                  </div>  
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section aria-label="Disclaimers" id="disclaimer" class="disclaimer">
+          <div class="section-inner">
+            <p><button data-target="#disclaimers" data-toggle="collapse" aria-expanded="false" aria-controls="disclaimers" class="collapse-toggle collapsed"><span>View Legal
+                  Disclaimers</span><span>Hide Legal Disclaimers</span></button></p>
+            <div class="collapse-content collapse" id="disclaimers">
+              <div class="collapse-inner">
+                <div class="table-wpr">
+                  <div class="table-row">
+                    <div class="table-cell">&nbsp;</div>
+                    <div class="table-cell legal-0"></div>
+                  </div>
+                  <div class="table-row" id="legal-1">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 1)</div>
+                    <div class="table-cell legal-1"></div>
+                  </div>
+                  <div class="table-row" id="legal-2">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 2)</div>
+                    <div class="table-cell legal-2"></div>
+                  </div>
+                  <div class="table-row" id="legal-3">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 3)</div>
+                    <div class="table-cell legal-3"></div>
+                  </div>
+                  <div class="table-row" id="legal-4">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 4)</div>
+                    <div class="table-cell legal-4"></div>
+                  </div>
+                  <div class="table-row" id="legal-5">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 5)</div>
+                    <div class="table-cell legal-5"></div>
+                  </div>
+                  <div class="table-row" id="legal-6">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 6)</div>
+                    <div class="table-cell legal-6"></div>
+                  </div>
+                  <div class="table-row" id="legal-7">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 7)</div>
+                    <div class="table-cell legal-7"></div>
+                  </div>
+                  <div class="table-row" id="legal-8">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 8)</div>
+                    <div class="table-cell legal-8"></div>
+                  </div>
+                  <div class="table-row" id="legal-9">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 9)</div>
+                    <div class="table-cell legal-9"></div>
+                  </div>
+                  <div class="table-row" id="legal-10">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 10)</div>
+                    <div class="table-cell legal-10"></div>
+                  </div>
+                  <div class="table-row" id="legal-11">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 11)</div>
+                    <div class="table-cell legal-11"></div>
+                  </div>
+                  <div class="table-row" id="legal-12">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 12)</div>
+                    <div class="table-cell legal-12"></div>
+                  </div>
+                  <div class="table-row" id="legal-13">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 13)</div>
+                    <div class="table-cell legal-13"></div>
+                  </div>
+                  <div class="table-row" id="legal-14">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 14)</div>
+                    <div class="table-cell legal-14"></div>
+                  </div>
+                  <div class="table-row" id="legal-15">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 15)</div>
+                    <div class="table-cell legal-15"></div>
+                  </div>
+                  <div class="table-row" id="legal-16">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 16)</div>
+                    <div class="table-cell legal-16"></div>
+                  </div>
+                  <div class="table-row" id="legal-17">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 17)</div>
+                    <div class="table-cell legal-17"></div>
+                  </div>
+                  <div class="table-row" id="legal-18">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 18)</div>
+                    <div class="table-cell legal-18"></div>
+                  </div>
+                  <div class="table-row" id="legal-19">
+                    <div class="table-cell"><span class="offscreen">Legal Bug</span> 19)</div>
+                    <div class="table-cell legal-19"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+      </section><!-- results -->
+
+      <div id="showDetailsModal" class="modal editDetailsModal" role="region" aria-labelledby="editDetails">
+    <div class="tooltip-overlay" style="display: none;"></div>
+    <div class="modal-inner">
+        <h3 id="editDetails" class="h2 text-center edit-details"></h3>
+            <h3 class="h5 text-sm-center trans_sliderHeading"></h3>
+            <p class="trans_slider_description mar-b-0"></p>
+            <div id="transactionSliderWrapMob" class="slider-wpr pad-l-hlf selector-botttom-border">
+                <div class="slider slider_transactions">
+                    <label for="transactionSliderMobClone" class="hide">Monthly Debit Transactions:</label>
+                    <input id="transactionSliderMobClone" type="text" data-min="0" data-max="25" data-postfix-right="+" aria-hidden="true" tabindex="-1">
+                </div>
+                <div class="input-wpr">
+                    <label for="transactionSliderMob">Monthly Debit Transactions:</label>
+                    <div class="input-symbol">
+                        <span id="dollar-symbol-sliderMob" class="offscreen">Number of transactions per month 0 to 25</span>
+                        <input type="number" pattern="[0-9]*" id="transactionSliderMob" name="numDebits1" class="input-from slider-input text-center" aria-describedby="dollar-symbol-sliderMob">
+                    </div>
+                </div>
+            </div>
+
+            <div id="question_atmMob" class="selector-botttom-border">
+                <label for="nonRbcAtmMob" class="h5 text-sm-center mar-b-0 atm_sliderHeading"></label>
+                <div class="input-wpr nonRbcAtmMob mar-t-hlf">
+                    <div class="num-field-wpr flex-center">
+                        <button class="btn-num-minus disabled" disabled aria-label="Minus one" aria-controls="nonRbcAtmMob" data-target="#nonRbcAtmMob"></button>
+                        <input id="nonRbcAtmMob" class="num-field" type="number" min="0" max="5" maxlength="1" placeholder="0" value="0" >
+                        <button class="btn-num-plus" aria-label="Add one" aria-controls="nonRbcAtmMob" data-target="#nonRbcAtmMob"></button>
+                    </div>
+                    <span class="error-msg">Please provide a valid number</span>
+                </div>
+            </div>
+
+            <div id="question_rbcservicesMob" class="selector-botttom-border">
+                <h3 class="h5 servicesHeading mar-b"></h3>
+                <fieldset class="checkbox-wpr">
+                    <input type="checkbox" id="additionalAcctsMob" name="additionalAccounts" class="other" value="Yes">
+                    <label for="additionalAcctsMob" class="additionalAcctsInpMob"></label>
+                    <input id="depoBoxMob" type="checkbox" name="safeDepositBox" class="other" value="Yes">
+                    <label for="depoBoxMob" class="depoBoxInpMob"></label>
+                    <input id="overdraftMob" type="checkbox" name="overdraftProtection" class="other" value="Yes">
+                    <label for="overdraftMob" class="overdraftInpMob"></label>
+                </fieldset>
+            </div>
+
+            <div id="question_rewardsMob" class="selector-botttom-border">
+                <h5 class="roboto-regular rewardsHeading">
+                    <span class="heading-1"></span><button class="tooltip-trigger" data-id="rewards-points-tip-7" data-dig-id="account-selector-39"><span class="offscreen">RBC Rewards Points</span></button>
+                    <div id="rewards-points-tip-7" class="tooltip" data-h="leftedge" data-v="bottom" aria-describedby="rewards-points-tip-content-7" aria-hidden="true">
+                        <div id="rewards-points-tip-content-7" class="tooltip-inner rewards-points-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                    <span class="heading-2"></span><button class="tooltip-trigger" data-id="value-program-tip-7" data-dig-id="account-selector-41"><span class="offscreen">RBC Value Program</span></button>
+                    <div id="value-program-tip-7" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="value-program-tip-content-7" aria-hidden="true">
+                        <div id="value-program-tip-content-7" class="tooltip-inner value-program-tip-content"></div>
+                        <button class="close"><span>Close</span></button>
+                    </div>
+                </h5>
+                <fieldset class="checkbox-wpr pad-t-hlf">
+                    <legend class="hide">Check Boxes Vertical</legend>
+                    <input id="rewardsCardBoxMob" type="checkbox" value="Yes">
+                    <label for="rewardsCardBoxMob" class="rewardsCardLabel"></label>
+                    <input id="rewardsInvestmentBoxMob" type="checkbox" value="Yes">
+                    <label for="rewardsInvestmentBoxMob" class="rewardsInvestmentLabel"></label>
+                    <input id="rewardsMortgageBoxMob" type="checkbox" value="Yes">
+                    <label for="rewardsMortgageBoxMob" class="rewardsMortgageLabel"></label>
+                    <input id="rewardsBusinessBoxMob" type="checkbox" value="Yes">
+                    <label for="rewardsBusinessBoxMob" class="rewardsBusinessLabel"></label>
+                </fieldset>
+            </div>
+
+            <div id="who_iam_Mob" class="selector-botttom-border">
+                <h3 class="h5 whoAmIHeading"></h3>
+                <fieldset id="test" class="radio-wpr MobultColRadioMob">
+                    <input type="radio" id="isStudentMob" name="whofor_radioMob" value="isStudent">
+                    <label for="isStudentMob"><span class="student_label"></span><button class='tooltip-trigger' data-id='studentToolTipMob' data-dig-id='account-selector-22'></button></label>
+                    <div id='studentToolTipMob' class='tooltip' data-h='right' data-v='topedge' aria-describedby='studentToolTipMob-content' aria-hidden='true'>
+                      <div id='studentToolTipMob-content' class='tooltip-inner studentToolTip-content'></div>
+                      <button class='close'><span>Close</span></button>
+                    </div>
+                    <input type="radio" id="isSeniorMob" name="whofor_radioMob" value="isSenior">
+                    <label for="isSeniorMob" class="senior_label"></label>
+                    <input type="radio" id="isNewcomerMob" name="whofor_radioMob" value="isNewcomer">
+                    <label for="isNewcomerMob"><span class="newcomer_label"></span><button class='tooltip-trigger' data-id='newcomerToolTipMob' data-dig-id='account-selector-23'></button></label>
+                    <div id='newcomerToolTipMob' class='tooltip' data-h='right' data-v='topedge' aria-describedby='newcomerToolTipMob-content' aria-hidden='true'>
+                      <div id='newcomerToolTipMob-content' class='tooltip-inner newcomerToolTip-content'></div>
+                      <button class='close'><span>Close</span></button>
+                    </div>
+                    <input type="radio" id="NoneMob" name="whofor_radioMob" value="None">
+                    <label for="NoneMob" class="none_label"></label>
+                </fieldset>
+            </div>
+
+            <div class="input-wpr">
+                <button type="button" class="btn primary mar-b-0 w-100 update-btn" id="ctrl-modal-update-btn" tabindex="0" aria-label="update"
+                data-dig-id="account-selector-24">Update</button>
+                <button type="button" class="btn tertiary w-100 modal-cancel-btn" id="modal-close-btn" data-dig-id="account-selector-25"></button>
+            </div>
+        <div id="modal-controls"></div>
+        <div id="cust-legal-15-edit" class="table-wpr text-disclaimer cust-legal-15 mar-t-dbl" style="display: none;">
+            <div class="table-row">
+                <div class="table-cell pad-r-qtr">15)</div>
+                <div class="table-cell legal-15-content"></div>
+            </div>
+        </div>
+    </div>
+    <button class="close" aria-label="Close"><span>Close</span></button>
+</div><!-- edit detail modal -->
+      <div id="compareAccountsModal" class="modal compare-modal" role="region" aria-labelledby="modal-title">
+    <div class="modal-inner mar pad-r-0">
+        <h3 id="modal-title" class="h2 text-center compareAccountsTitle"></h3>
+        <p class="text-center compare_subHeading"></p>
+        <div class="grid-wpr">
+            <fieldset class="grid-full">
+                 <div class="activeCardHeader text-center text-script">
+                    <span class="compare_mainAcctTile"></span>
+                </div>
+                <div class="checkbox-wpr mar-b-0">
+                    <div class="accountCard accountCardAdv">
+                        <input type="checkbox" name="accountComparison" class="checkbox" id="compareAdv" value="Adv">
+                        <label for="compareAdv">
+                            <span class="roboto-medium">RBC Advantage Banking</span>
+                            <br />
+                            <strike><span class="offscreen">Original fee</span><span class="AdvBaseCost font-12">$9.75</span></strike>
+                            <span class="text-bold"><span class="AdvFinalCost">FREE</span></span>
+                            <span class="font-14 text-script AdvCompareRebateDetails"></span>
+                            <br />
+                            <span class="font-14 display-inline-block mar-t-qtr">PLUS earn up to <strong class="valueProgramPoints text-green">150</strong> RBC Rewards points per month</span>
+                        </label>
+                    </div>
+
+                    <div class="accountCard accountCardSNL">
+                        <input type="checkbox" name="accountComparison" class="checkbox" id="compareSNL" value="SNL">
+                        <label for="compareSNL">
+                            <span class="roboto-medium">RBC Signature No Limit Banking</span>
+                            <br />
+                            <strike><span class="offscreen">Original fee</span><span class="SNLBaseCost font-12">$9.75</span></strike>
+                            <span class="text-bold"><span class="SNLFinalCost">FREE</span></span>
+                            <span class="font-14 text-script SNLCompareRebateDetails"></span>
+                            <br />
+                            <span class="hasAdditionalFeesSNL text-disclaimer font-14">Based on your proposed usage, additional fees may apply<br /></span>
+                            <span class="font-14 display-inline-block mar-t-qtr">PLUS earn up to <strong class="valueProgramPoints text-green">150</strong> RBC Rewards points per month</span>
+                        </label>
+                    </div>
+
+                    <div class="accountCard accountCardVIP">
+                        <input type="checkbox" name="accountComparison" class="checkbox" id="compareVIP" value="VIP">
+                        <label for="compareVIP">
+                            <span class="roboto-medium">RBC VIP Banking</span>
+                            <br />
+                            <strike><span class="offscreen">Original fee</span><span class="VIPBaseCost font-12">$9.75</span></strike>
+                            <span class="text-bold"><span class="VIPFinalCost">FREE</span></span>
+                            <span class="font-14 text-script VIPCompareRebateDetails"></span>
+                            <br />
+                            <span class="font-14 display-inline-block mar-t-qtr">PLUS earn up to <strong class="valueProgramPoints text-green">150</strong> RBC Rewards points per month</span>
+                        </label>
+                    </div>
+
+                    <div class="accountCard accountCardD2D">
+                        <input type="checkbox" name="accountComparison" class="checkbox" id="compareD2D" value="D2D">
+                        <label for="compareD2D">
+                            <span class="roboto-medium">RBC Day to Day Banking</span>
+                            <br />
+                            <strike><span class="offscreen">Original fee</span><span class="D2DBaseCost font-12">$9.75</span></strike>
+                            <span class="text-bold"><span class="D2DFinalCost">FREE</span></span>
+                            <span class="font-14 text-script D2DCompareRebateDetails"></span>
+                            <br />
+                            <span class="hasAdditionalFeesD2D text-disclaimer font-14">Based on your proposed usage, additional fees may apply<br /></span>
+                            <span class="font-14 display-inline-block mar-t-qtr">PLUS earn up to <strong class="valueProgramPoints text-green">150</strong> RBC Rewards points per month</span>
+                        </label>
+                    </div>
+                </div>
+                <div class="grid-full input-wpr pad-lr-0">
+                    <button class="btn primary disabled mar-t-0 fl-r w-mob-100 fl-mob-n mar-b-0 update-btn" id="compare-update-btn" aria-disabled="true" disabled
+                        data-dig-id="account-selector-19">Update</button>
+                    <button class="btn tertiary modal-cancel-btn  mar-t-0 mob-mar-t-hlf fl-l mar-b-0 w-mob-100 fl-mob-n" id="compare-cancel-btn"
+                        data-dig-id="account-selector-20"></button>
+                </div>
+            </fieldset>
+        </div>
+    </div>
+    <button class="close" aria-label="Close"><span>Close</span></button>
+</div>
+      <div id="value-program-modal" class="modal" role="region" aria-labelledby="modal-title-vp">
+    <div class="tooltip-overlay" style="display: none;"></div>
+    <div class="modal-inner">
+        <h3 id="modal-title-vp" class="text-center rbcdisplay-regular">Unlock RBC Rewards points<button class="tooltip-trigger" data-dig-id="account-selector-43" data-id="rewards-points-tip-modal"><span class="offscreen">Rewards points</span></button><div id="rewards-points-tip-modal" class="tooltip" data-h="leftedge" data-v="bottom" aria-describedby="rewards-points-tip-content-modal" aria-hidden="true">
+        <div id="rewards-points-tip-content-modal" class="tooltip-inner rewards-points-tip-content"></div>
+         <button class="close"><span>Close</span></button>
+        </div> and potential savings by enrolling your RBC bank account in the Value Program<button class="tooltip-trigger" data-dig-id="account-selector-45" data-id="value-program-tip-modal"><span class="offscreen">Value program</span></button>
+        <div id="value-program-tip-modal" class="tooltip" data-h="rightedge" data-v="bottom" aria-describedby="value-program-tip-content-modal" aria-hidden="true"><div id="value-program-tip-content-modal" class="tooltip-inner value-program-tip-content"></div><button class="close"><span>Close</span></button></div></h3>    
+        <p class="text-center">You can earn points even faster if you have an account and <span class="text-bold">2 or more eligible products</span> with us</p>
+        <p class="text-center roboto-regular">Find out how much you could earn and save by selecting products you’re interested in or already have:</p>
+        <div class="value-program-grid">
+            <fieldset class="checkbox-wpr mar-r-hlf">
+                <legend class="hide">Check Boxes Vertical</legend>
+                <input id="rewardsCardBoxModal" type="checkbox" value="Yes">
+                <label for="rewardsCardBoxModal" class="rewardsCardLabel"></label>
+                <input id="rewardsInvestmentBoxModal" type="checkbox" value="Yes">
+                <label for="rewardsInvestmentBoxModal" class="rewardsInvestmentLabel"></label>
+                <input id="rewardsMortgageBoxModal" type="checkbox" value="Yes">
+                <label for="rewardsMortgageBoxModal" class="rewardsMortgageLabel"></label>
+                <input id="rewardsBusinessBoxModal" type="checkbox" value="Yes">
+                <label for="rewardsBusinessBoxModal" class="rewardsBusinessLabel"></label>
+            </fieldset>
+            <div class="value-program-cards w-mob-100">
+                <div class="benefits-card w-50">
+                    <div class="mar-b-hlf text-center"><img src="/dvl/v1.0/assets/images/icons/icon-rewards.svg" class="icon-40" alt=""></div>
+                    <h5 class="rbcdisplay-bold text-center">
+                        1 point per
+                        <br>
+                        <span class="h3 text-blue rbcdisplay-bold">$<span class="valueProgramPrice">5</span></span>
+                        <br>
+                        spent on debit
+                    </h5>
+                </div>
+                <div class="benefits-card w-50">
+                    <div class="mar-b-hlf text-center"><img src="/accounts/_assets-custom/images/icon-coin.svg" class="icon-40" alt=""></div>
+                    <h5 class="rbcdisplay-bold text-center">
+                        Monthly Fee
+                        <br>
+                        <strike><span class="offscreen">Original fee</span><span class="baseCost">$9.75</span></strike>
+                        <p class="h3 text-blue rbcdisplay-bold mar-0"><span class='finalPresCost'>$9.75</span><sup id="legal-dagger-vp-cost" style="display: none;"><a href="javascript:void(0);" class="scrolltomodal" data-target="#legal-dagger-vp">&dagger;</a></sup></p>
+                        <span class="hasRebateWpr"><span class="hasRebate"></span><sup id="legal-dagger-vp-rebate" style="display: none;"><a href="javascript:void(0);" class="scrolltomodal" data-target="#legal-dagger-vp">&dagger;</a></sup></span>
+                    </h5>
+                </div>
+            </div>
+        </div>
+        <div class="mar-b text-right"><button id="value-program-update" class="primary btn no-wrap w-mob-100" data-dig-id="account-selector-47">Apply products to results</button></div>
+        <div id="legal-dagger-vp-disc" class="table-wpr text-disclaimer mar-t mar-b-hlf" style="display: none;">
+            <div class="table-row">
+                <div class="table-cell pad-r-qtr"><sup>&dagger;</sup></div>
+                <div class="table-cellt">Based on your proposed usage, additional fees may apply.</div>
+            </div>
+        </div>
+        <p class="text-disclaimer"><span class="text-bold">Note:</span> We only ask this question to show your rewards and potential savings. You would need to enrol your bank account and apply and be approved for these products separately if you don’t already have them.</p>
+        <div id="cust-legal-15-vp" class="table-wpr text-disclaimer cust-legal-15 mar-t" style="display: none;">
+            <div class="table-row">
+                <div class="table-cell pad-r-qtr">15)</div>
+                <div class="table-cell legal-15-content"></div>
+            </div>
+        </div>
+    </div>
+    <button id="pointsFeeModal-close" class="close" aria-label="Close"><span>Close</span></button>
+</div>
+
+    </main>
+
+    <footer>
+      <div class="main-footer">
+	<div class="main-footer-inner">
+		<div class="footer-left">
+			<p>Royal Bank of Canada Website, <span class="no-wrap">&copy; 1995-<span class="footer-year"></span></span></p>
+			<p><a href="https://www.rbc.com/legal/" class="popup" data-popup-type="default" target="_blank" title="(opens in new window)">Legal</a> | <a href="http://www.rbc.com/accessibility/" class="popup" data-popup-type="default" target="_blank" title="(opens in new window)">Accessibility</a> | <a href="https://www.rbc.com/privacysecurity/ca/index.html" class="popup" data-popup-type="default" target="_blank" title="(opens in new window)">Privacy & Security</a></p>
+		</div>	
+	</div>
+</div>
+    </footer>
+
+  </div>
+  <!--JS resources -->
+  <script src="/dvl/v1.0/assets/js/jquery.min.js"></script>
+<script src="/dvl/v1.0/assets/js/jquery-ui.min.js"></script>
+<script src="/dvl/v1.0/assets/js/bootstrap.min.js"></script>
+<script src="/dvl/v1.0/assets/js/underscore.min.js"></script>
+<script src="/dvl/v1.0/assets/js/bowser.min.js"></script>
+<script src="/dvl/v1.0/assets/js/dvl.min.js"></script>
+<script src="/dvl/v1.0/assets/js/carryover.min.js"></script>
+<div class="high-contrast-test" style="width: 0px; height: 0px; background-image: url(/dvl/v1.0/assets/images/ui/ui-checkmark-blue.svg)"></div>
+<script>
+    // High contrast mode checker. if there is no background-image we are in high contrast mode
+    if ($('.high-contrast-test').css('background-image') === 'none') {
+        $('html').addClass('high-contrast-mode');
+    }
+</script>
+
+<!-- IE Decommision Messaging START -->
+<style>
+.campaign #ie-messaging .alert-content {
+    max-width: 960px!important;
+}
+#ie-messaging.alert.warning:before {
+    content: none;
+}
+#ie-messaging .alert-content .collapse-toggle:after {
+    content: url(/_assets-custom/images/ui-chevron-down-hnw.svg);
+    top: 9px;
+}
+#ie-messaging .alert-content .collapse-toggle {
+    font-size: 1.4rem;
+    line-height: 2.1rem;
+}
+#ie-messaging .alert-content .collapse-content p {
+    display: inline-block;
+    font-size: 1.4rem;
+    line-height: 2.1rem;
+}
+</style>
+<script>
+    $(document).ready(function() {
+        if (DVL.lang == "en") {
+            $('header').before(
+                '<div id="ie-messaging" class="alert warning" role="complementary" style="display: block; padding: 0px;">\
+                    <div class="alert-content" style="width: 100%; max-width: 1200px; margin: 0 auto; padding: 12px 15px;">\
+                        <p class="mar-b-0"><button class="collapse-toggle collapsed chevron-toggle" data-target="#collapse-ie-msg-en" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-ie-msg-en" style="color: #a15900;"><img src="/dvl/v1.0/assets/images/icons/icon-warning.svg" class="mar-r-hlf" height="20" width="20" style="vertical-align: text-bottom;"><strong>Notice: Internet Explorer No Longer Supported</strong></button></p>\
+                        <div class="collapse-content collapse w-100" id="collapse-ie-msg-en">\
+                            <div class="collapse-inner pad-t-hlf">\
+                                <p>Due to Microsoft retiring Internet Explorer, we are no longer supporting the Explorer browser across our websites. Please switch to another browser for a better viewing experience.</p>\
+                            </div>\
+                        </div>\
+                    </div>\
+                </div>'
+            )
+        } else if (DVL.lang == "fr") {
+            $('header').before(
+                '<div id="ie-messaging" class="alert warning" role="complementary" style="display: block; padding: 0px;">\
+                    <div class="alert-content" style="width: 100%; max-width: 1200px; margin: 0 auto; padding: 12px 15px;">\
+                        <p class="mar-b-0"><button class="collapse-toggle collapsed chevron-toggle" data-target="#collapse-ie-msg-fr" data-toggle="collapse" aria-expanded="false" aria-controls="collapse-ie-msg-fr" style="color: #a15900;"><img src="/dvl/v1.0/assets/images/icons/icon-warning.svg" class="mar-r-hlf" height="20" width="20" style="vertical-align: text-bottom;"><strong>Avis : Internet Explorer n’est plus pris en charge</strong></button></p>\
+                        <div class="collapse-content collapse w-100" id="collapse-ie-msg-fr">\
+                            <div class="collapse-inner pad-t-hlf">\
+                                <p><strong>Navigateur non pris en charge :</strong> En raison du retrait d’Internet Explorer, le navigateur Explorer ne sera plus pris en charge sur notre site Web. Veuillez passer à un autre navigateur pour avoir une meilleure expérience de visionnement. </p>\
+                            </div>\
+                        </div>\
+                    </div>\
+                </div>'
+            )    
+        }
+        var ieCollapse = $('#ie-messaging .collapse-toggle');
+        ieCollapse.on('click', function(event) {
+            event.preventDefault();
+            if (ieCollapse.hasClass('collapsed')) {
+                ieCollapse.removeClass('collapsed').attr('aria-expanded', 'true');;
+                $('#ie-messaging .collapse-content').slideDown().addClass('show');;
+            } else {
+                ieCollapse.addClass('collapsed').attr('aria-expanded', 'false');;
+                $('#ie-messaging .collapse-content').slideUp().removeClass('show');;    
+            }
+        });
+    });
+</script>
+<!-- IE Decommision Messaging END -->
+
+  <script src="_assets-custom/js/jquery.mask.min.js"></script>
+  <script src="_assets-custom/js/account-content.js"></script>
+  <script src="_assets-custom/js/chequing-ctm-num-increments.js"></script>
+  <script src="_assets-custom/js/chequing-account-selector-ga.js"></script>
+  <script src="_assets-custom/js/chequing-account-selector.js"></script>
+</body>
+
+</html>
